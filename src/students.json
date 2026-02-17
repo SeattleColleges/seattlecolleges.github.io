@@ -420,6 +420,15 @@
             "email": "zulbadamz@gmail.com",
             "github": "https://github.com/Zulbadamz",
             "linkedin": "https://www.linkedin.com/in/zulbadam-batdelger-aa91851b7/"
+        },
+        {
+            "name": "Reid SantaBarbara",
+            "photo": "Reid-SantaBarbara.webp",
+            "role": "Developer",
+            "about": "I am a curious developer learning each day",
+            "email": "reid.santabarbara@seattlecolleges.edu",
+            "github": "https://github.com/olympusmons1256",
+            "linkedin": "https://www.linkedin.com/in/reid-santabarbara-9a70364b/",
         }
     ]
 }
