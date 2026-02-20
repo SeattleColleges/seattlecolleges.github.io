@@ -422,6 +422,15 @@
             "linkedin": "https://www.linkedin.com/in/zulbadam-batdelger-aa91851b7/"
         },
         {
+            "name": "Jocelyn Graf",
+            "photo": "JG.webp",
+            "role": "Fractional CTO",
+            "about": "I'm a grant-funded CTO for tech startups through the Small Business Development Centers.",
+            "email": "contact-me-via-linkedin@example.com",
+            "github": "https://github.com/endlesslupita",
+            "linkedin": "https://www.linkedin.com/in/jocelyngraf"
+        },
+        {        
             "name": "Hyejin Lee",
             "photo": "anon-profile-image.webp",
             "role": "AD311 Student",
