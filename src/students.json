@@ -422,6 +422,15 @@
             "linkedin": "https://www.linkedin.com/in/zulbadam-batdelger-aa91851b7/"
         },
         {
+            "name": "Hyejin Lee",
+            "photo": "anon-profile-image.webp",
+            "role": "AD311 Student",
+            "about": "NSC AD BAS current student.",
+            "email": "xthsu27x@gmail.com",
+            "github": "https://github.com/HJLee82",
+            "linkedin": "https://www.linkedin.com/in/hyejin-lee-948966303/"
+        },
+        {
             "name": "An Nhat Tran",
             "photo": "An_Nhat_Tran.webp",
             "role": "Developer",
@@ -430,5 +439,6 @@
             "github": "https://github.com/SUPER444E",
             "linkedin": "https://www.linkedin.com/in/an-nhat-tran-a98a5a35b/"
         }
+        
     ]
 }
