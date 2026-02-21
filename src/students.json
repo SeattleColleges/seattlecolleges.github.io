@@ -421,5 +421,17 @@
             "github": "https://github.com/Zulbadamz",
             "linkedin": "https://www.linkedin.com/in/zulbadam-batdelger-aa91851b7/"
         }
-    ]
+          ,
+  {
+    "name": "Bashir Abdulkadir",
+    "photo": "EXISTING-IMAGE.webp",
+    "role": "Application Development Student",
+    "about": "I am an Application Development student focused on building real-world projects and improving my collaboration and GitHub workflow skills.",
+    "email": "bashir3355@gmail.com",
+    "github": "https://github.com/Bashir3355",
+    "linkedin": ""
+  }
+]
 }
+    
+
