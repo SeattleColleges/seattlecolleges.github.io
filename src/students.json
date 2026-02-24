@@ -431,8 +431,18 @@
             "github": "https://github.com/Dhool143",
             "linkedin": "https://www.linkedin.com/in/fathiya-yoosef-0a9a5620b/"
             
-        } 
+        
         
                      
+        },
+        {
+            "name": "Hyejin Lee",
+            "photo": "anon-profile-image.webp",
+            "role": "AD311 Student",
+            "about": "NSC AD BAS current student.",
+            "email": "xthsu27x@gmail.com",
+            "github": "https://github.com/HJLee82",
+            "linkedin": "https://www.linkedin.com/in/hyejin-lee-948966303/"
+        }
     ]
 }
