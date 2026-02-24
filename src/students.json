@@ -429,6 +429,15 @@
             "email": "xthsu27x@gmail.com",
             "github": "https://github.com/HJLee82",
             "linkedin": "https://www.linkedin.com/in/hyejin-lee-948966303/"
+        },
+        {
+            "name": "José Antonio Horta Herrera",
+            "photo": "jose-horta.webp",
+            "role": "Computer Science Student and Full Stack Developer",
+            "about": "Computer Science student focused on artificial intelligence, full stack development, and building scalable software applications.",
+            "email": "josehorta21@gmail.com",
+            "github": "https://github.com/josehorta21",
+            "linkedin": "https://www.linkedin.com/in/jose-antonio-horta-herrera-76b243336"
         }
     ]
 }
