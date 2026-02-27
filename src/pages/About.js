@@ -33,7 +33,7 @@ function About() {
               width: "30%",
             }}
           >
-            <div
+            <h1
               style={{
                 width: "90%",
                 fontSize: "68px",
@@ -41,7 +41,8 @@ function About() {
               }}
             >
               North Seattle Application Development
-            </div>
+            </h1>
+
           </div>
           <div
             style={{
