@@ -429,6 +429,15 @@
             "email": "xthsu27x@gmail.com",
             "github": "https://github.com/HJLee82",
             "linkedin": "https://www.linkedin.com/in/hyejin-lee-948966303/"
+        },
+        {
+            "name": "Denniz Garza",
+            "photo": "Denniz-Garza.webp",
+            "role": "Developer",
+            "about": "I'm currently a junior in the BAS program. I like learning about different code languages",
+            "email": "dennizgarza@gmail.com",
+            "github": "https://github.com/DennizGarza1234",
+            "linkedin": "https://www.linkedin.com/in/denniz-garza-8138693b4/"
         }
     ]
 }
