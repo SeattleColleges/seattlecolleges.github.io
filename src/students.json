@@ -429,6 +429,24 @@
             "email": "contact@raemaffei.com",
             "github": "https://github.com/givecoffee",
             "linkedin": "https://www.linkedin.com/in/raemaffei/"
+        {
+            "name": "Hyejin Lee",
+            "photo": "anon-profile-image.webp",
+            "role": "AD311 Student",
+            "about": "NSC AD BAS current student.",
+            "email": "xthsu27x@gmail.com",
+            "github": "https://github.com/HJLee82",
+            "linkedin": "https://www.linkedin.com/in/hyejin-lee-948966303/"
+        },
+        {
+            "name": "An Nhat Tran",
+            "photo": "An_Nhat_Tran.webp",
+            "role": "Developer",
+            "about": "Hello, I'm An (Andy), a student in the AppDev program, and I am eager to learn. I play mahjong with the Seattle Riichi mahjong club.",
+            "email": "nhatan05092005@gmail.com",
+            "github": "https://github.com/SUPER444E",
+            "linkedin": "https://www.linkedin.com/in/an-nhat-tran-a98a5a35b/"
         }
+        
     ]
 }
