@@ -422,6 +422,15 @@
             "linkedin": "https://www.linkedin.com/in/zulbadam-batdelger-aa91851b7/"
         },
         {
+            "name": "Bade Habib",
+            "photo": "Bade-Habib.webp",
+            "role": "Developer",
+            "about": "Full stack software engineer and ex-Navy aircraft carrier IT systems administrator with experience in web and game development. Currently interested in transitioning to a DevOps role.",
+            "email": "bjhabib93@gmail.com",
+            "github": "https://github.com/JungDefiant",
+            "linkedin": "https://www.linkedin.com/in/badehabib/"
+        },
+        {
             "name": "José Antonio Horta Herrera",
             "photo": "anon-profile-image.webp",
             "role": "Computer Science Student",
