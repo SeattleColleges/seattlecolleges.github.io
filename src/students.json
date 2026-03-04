@@ -423,12 +423,13 @@
         },
         {    
             "name": "Rae Maffei",
-            "photo": "Rae-Maffei.webp",
+            "photo": "anon-profile-image.webp",
             "role": "Developer",
             "about": "Focused on continuous growth in the full development lifecycle: creating immersive, accessible user interfaces while implementing security-first backend architectures.",
             "email": "contact@raemaffei.com",
             "github": "https://github.com/givecoffee",
             "linkedin": "https://www.linkedin.com/in/raemaffei/"
+        }, 
         {
             "name": "Hyejin Lee",
             "photo": "anon-profile-image.webp",
