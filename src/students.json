@@ -423,12 +423,74 @@
         },
         {
             "name": "José Antonio Horta Herrera",
-            "photo": "jose-horta.webp",
+            "photo": "anon-profile-image.webp",
             "role": "Computer Science Student",
             "about": "Computer Science student passionate about learning software development, improving problem-solving skills, and growing in full stack and AI technologies.",
             "email": "hortajose08@gmail.com",
             "github": "https://github.com/josehorta21",
             "linkedin": "https://www.linkedin.com/in/jose-antonio-horta-herrera-76b243336"
+        },
+        {
+            "name": "Reid SantaBarbara",
+            "photo": "Reid-Santabarbara.webp",
+            "role": "Developer",
+            "about": "I am a curious developer learning each day",
+            "email": "reid.santabarbara@seattlecolleges.edu",
+            "github": "https://github.com/olympusmons1256",
+            "linkedin": "https://www.linkedin.com/in/reid-santabarbara-9a70364b/"
+        },
+        {
+            "name": "Evelyn Bushell",
+            "photo": "Evelyn-Bushell.webp",
+            "role": " Student Developer",
+            "about": "A Junior student who loves the puzzles of problem solving, I love just how many different things there are to learn.",
+            "email": "evelynabushell@gmail.com",
+            "github": "https://github.com/Eveybushell",
+            "linkedin": "https://www.linkedin.com/in/evelyn-bushell-6a475639a/"
+        },
+        {
+            "name": "Eric Cashman",
+            "photo": "Eric-Cashman.webp",
+            "role": "Developer",
+            "about": "Pursuing a Bachelors in Application Development. My goals is to pursue Grad school to conduct research about data and real world implications",
+            "email": "sircashmaneric@gmail.com",
+            "github": "https://github.com/Eric-Cashman",
+            "linkedin": "https://www.linkedin.com/in/Eric-Cashman/"
+        },
+        {
+            "name": "Dara Sen",
+            "photo": "anon-profile-image.webp",
+            "about": "Passonate about Full-Stack Development, Machine Learning and Data Science",
+            "email": "darasen0277@gmail.com",
+            "github": "https://github.com/DS-0277",
+            "linkedin": "https://www.linkedin.com/in/dara-sen-24681863/"
+        },
+        {
+            "name": "Hyejin Lee",
+            "photo": "anon-profile-image.webp",
+            "role": "AD311 Student",
+            "about": "NSC AD BAS current student.",
+            "email": "xthsu27x@gmail.com",
+            "github": "https://github.com/HJLee82",
+            "linkedin": "https://www.linkedin.com/in/hyejin-lee-948966303/"
+        },
+        {
+            "name": "Mark Yosinao",
+            "photo": "m_yosinao.webp",
+            "role": "Developer",
+            "about": "I am pursuing the App Dev BAS degree with an emphasis on creating practical, impactful software solutions for real‑world needs.",
+            "email": "yosinaom@gmail.com",
+            "github": "https://github.com/makayo",
+            "linkedin": "https://www.linkedin.com/in/mark-yosinao-4914a3200/"
+        },
+        {
+            "name": "An Nhat Tran",
+            "photo": "An_Nhat_Tran.webp",
+            "role": "Developer",
+            "about": "Hello, I'm An (Andy), a student in the AppDev program, and I am eager to learn. I play mahjong with the Seattle Riichi mahjong club.",
+            "email": "nhatan05092005@gmail.com",
+            "github": "https://github.com/SUPER444E",
+            "linkedin": "https://www.linkedin.com/in/an-nhat-tran-a98a5a35b/"
         }
-        ]
-        }
+    ]
+}
