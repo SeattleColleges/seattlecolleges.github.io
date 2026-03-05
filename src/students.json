@@ -422,15 +422,24 @@
             "linkedin": "https://www.linkedin.com/in/zulbadam-batdelger-aa91851b7/"
         },
         {
+            "name": "Fathiya Yoosef",
+            "photo": "fathiya_50.jpg",
+            "role": "Developer",
+            "about": "I'm doing a bachelor's degree in application development at North Seattle Colloge. I will graduate 2027",
+            "email": "fathiya.yoosef@asettale.colleges.edu",
+            "github": "https://github.com/Dhool143",
+            "linkedin": "https://www.linkedin.com/in/fathiya-yoosef-0a9a5620b/"
+        },
+        {
             "name": "David Davis",
             "photo": "David-Davis.webp",
             "role": "Developer",
-            "about": "BAS‑AD student who approaches challenges with structure and persistence, always aiming for clean, intuitive results."
+            "about": "BAS‑AD student who approaches challenges with structure and persistence, always aiming for clean, intuitive results.",
             "email": "barrcardavis@gmail.com",
             "github": "https://github.com/Barrcardavis",
             "linkedin": "https://www.linkedin.com/in/david-davis-010000194/"
         },
-       {
+        {
             "name": "Bashir Abdulkadir",
             "photo": "anon-profile-image.webp",
             "role": "Application Development Student",
@@ -438,7 +447,7 @@
             "email": "bashir3355@gmail.com",
             "github": "https://github.com/Bashir3355",
             "linkedin": ""
-            },
+        },
         {
             "name": "El Brewster",
             "photo": "El-Brewster.webp",
@@ -536,7 +545,7 @@
             "github": "https://github.com/SUPER444E",
             "linkedin": "https://www.linkedin.com/in/an-nhat-tran-a98a5a35b/"
         },
-        { 
+        {
             "name": "Copper Wilson",
             "photo": "Copper-Wilson.webp",
             "role": "Student",
@@ -554,14 +563,14 @@
             "github": "https://github.com/adouglas20",
             "linkedin": "www.linkedin.com/in/adougl"
         },
-    {
-        "name": "Ermiyas Hailemichael",
-        "photo": "anon-profile-image.webp",
-        "role": "NSC AD BAS Student",
-        "about": "I'm currently pursuing a Bachelor's degree in Application Development at North Seattle College. I enjoy building web applications and am expanding my skills in TypeScript, Node.js, and Express.js.",
-        "email": "yemeerma11@gmail.com",
-        "github": "https://github.com/ErmiyasHailemichael",
-        "linkedin": "https://www.linkedin.com/in/ehailemichael/"
-    }
+        {
+            "name": "Ermiyas Hailemichael",
+            "photo": "anon-profile-image.webp",
+            "role": "NSC AD BAS Student",
+            "about": "I'm currently pursuing a Bachelor's degree in Application Development at North Seattle College. I enjoy building web applications and am expanding my skills in TypeScript, Node.js, and Express.js.",
+            "email": "yemeerma11@gmail.com",
+            "github": "https://github.com/ErmiyasHailemichael",
+            "linkedin": "https://www.linkedin.com/in/ehailemichael/"
+        }
     ]
 }
