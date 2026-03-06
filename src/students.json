@@ -1,6 +1,6 @@
 {
     "students": [
-        { 
+        {
             "name": "James Mathew",
             "photo": "James-Mathew.webp",
             "role": "Developer",
@@ -9,7 +9,7 @@
             "github": "https://github.com/jmathew12",
             "linkedin": "https://www.linkedin.com/in/jmathew12/"
         },
-        { 
+        {
             "name": "Brandon Dombrowsky",
             "photo": "Brandon-Dombrowsky.webp",
             "role": "Technical Program Manager",
@@ -18,7 +18,7 @@
             "github": "https://github.com/brandondombrowsky",
             "linkedin": "https://www.linkedin.com/in/brandon-dombrowsky/"
         },
-        { 
+        {
             "name": "Emily Brink",
             "photo": "Emily-Brink.webp",
             "role": "Technical Program Manager",
@@ -27,7 +27,7 @@
             "github": "https://github.com/brinkbrink",
             "linkedin": "https://www.linkedin.com/in/eebrink/"
         },
-        { 
+        {
             "name": "Taylor Papke",
             "photo": "Taylor-Papke.webp",
             "role": "Product Owner / Technical Project Manager",
@@ -36,7 +36,7 @@
             "github": "https://github.com/orgs/SeattleColleges/people/taylorpapke",
             "linkedin": "https://www.linkedin.com/in/taylor-papke/"
         },
-        { 
+        {
             "name": "Nicklas Di Pietro",
             "photo": "Nicklas-Di-Pietro.webp",
             "role": "Technical Project Manager",
@@ -45,7 +45,7 @@
             "github": "https://github.com/Seiyaroo",
             "linkedin": "https://www.linkedin.com/in/nicklasdipietro/"
         },
-        { 
+        {
             "name": "Hanan Osman",
             "photo": "anon-profile-image.webp",
             "role": "Product Owner",
@@ -54,7 +54,7 @@
             "github": "https://github.com/heosman",
             "linkedin": "https://www.linkedin.com/in/hanan-osman/"
         },
-        { 
+        {
             "name": "Keiffer Tan",
             "photo": "Keiffer-Tan.webp",
             "role": "Product Owner",
@@ -63,7 +63,7 @@
             "github": "https://github.com/keiffer213",
             "linkedin": "https://www.linkedin.com/in/keiffer-tan-817a56211/"
         },
-        { 
+        {
             "name": "Tin Pham",
             "photo": "Tin-Pham.webp",
             "role": "Lead Developer",
@@ -72,7 +72,7 @@
             "github": "https://github.com/tinpham5614",
             "linkedin": "https://www.linkedin.com/in/tinpham5614/"
         },
-        { 
+        {
             "name": "Robel Hailu",
             "photo": "anon-profile-image.webp",
             "role": "Lead Developer",
@@ -81,7 +81,7 @@
             "github": "https://github.com/Robel-003",
             "linkedin": ""
         },
-        { 
+        {
             "name": "Jeremy Ward",
             "photo": "Jeremy-Ward.webp",
             "role": "Lead Developer",
@@ -90,7 +90,7 @@
             "github": "https://github.com/Exochos",
             "linkedin": "https://www.linkedin.com/in/jeremycward"
         },
-        { 
+        {
             "name": "Nahom Worku",
             "photo": "anon-profile-image.webp",
             "role": "Lead Developer",
@@ -99,7 +99,7 @@
             "github": "https://github.com/NahomAlemu",
             "linkedin": ""
         },
-        { 
+        {
             "name": "Intisar Osman",
             "photo": "anon-profile-image.webp",
             "role": "Developer",
@@ -108,7 +108,7 @@
             "github": "https://github.com/intisarosman1",
             "linkedin": "https://www.linkedin.com/in/intisarosman/"
         },
-        { 
+        {
             "name": "Isaac J",
             "photo": "anon-profile-image.webp",
             "role": "Developer",
@@ -117,7 +117,7 @@
             "github": "https://github.com/IsaacJrTypes",
             "linkedin": ""
         },
-        { 
+        {
             "name": "Cameron Shimmin",
             "photo": "Cameron-Shimmin.webp",
             "role": "Developer",
@@ -126,7 +126,7 @@
             "github": "https://github.com/cshimm",
             "linkedin": "https://www.linkedin.com/in/cameronshimmin/"
         },
-        { 
+        {
             "name": "Muhammadou Drammeh",
             "photo": "Muhammadou-Drammeh.webp",
             "role": "Developer",
@@ -135,7 +135,7 @@
             "github": "https://github.com/MuhammadNSC",
             "linkedin": "https://www.linkedin.com/in/muhammadoudrammeh/"
         },
-        { 
+        {
             "name": "Nickolas Ramirez",
             "photo": "Nickolas-Ramirez.webp",
             "role": "Product Owner / Lead Developer",
@@ -144,7 +144,7 @@
             "github": "https://github.com/nickolasram",
             "linkedin": "www.linkedin.com/in/ramrezdev"
         },
-        { 
+        {
             "name": "Ali Sharif",
             "photo": "anon-profile-image.webp",
             "role": "Developer",
@@ -153,7 +153,7 @@
             "github": "https://github.com/Ali-7s",
             "linkedin": "https://www.linkedin.com/in/ali-sharif-22908a22b/"
         },
-        { 
+        {
             "name": "Kai Manasse",
             "photo": "anon-profile-image.webp",
             "role": "Developer",
@@ -162,7 +162,7 @@
             "github": "https://github.com/kaimanasse15",
             "linkedin": "https://www.linkedin.com/in/k-m-3729a4253/"
         },
-        { 
+        {
             "name": "Kyle Kennedy",
             "photo": "anon-profile-image.webp",
             "role": "Developer",
@@ -171,7 +171,7 @@
             "github": "https://github.com/kkennedy-gh",
             "linkedin": ""
         },
-        { 
+        {
             "name": "Bennett Fife",
             "photo": "Bennett-Fife.webp",
             "role": "Developer",
@@ -180,7 +180,7 @@
             "github": "https://github.com/bennettsf",
             "linkedin": "https://www.linkedin.com/in/bennett-fife/"
         },
-        { 
+        {
             "name": "Marco Bejarano Oseguera",
             "photo": "Marco-Bejarano.webp",
             "role": "Lead Developer",
@@ -189,7 +189,7 @@
             "github": "https://github.com/Bejarano03",
             "linkedin": "https://www.linkedin.com/in/marcobejarano/"
         },
-        { 
+        {
             "name": "Holly Judge",
             "photo": "anon-profile-image.webp",
             "role": "Developer",
@@ -198,7 +198,7 @@
             "github": "https://github.com/Aki047",
             "linkedin": ""
         },
-        { 
+        {
             "name": "Edwin Ho",
             "photo": "anon-profile-image.webp",
             "role": "Developer",
@@ -207,7 +207,7 @@
             "github": "https://github.com/krayzieeddi",
             "linkedin": ""
         },
-        { 
+        {
             "name": "Troy Pham",
             "photo": "anon-profile-image.webp",
             "role": "Developer",
@@ -216,7 +216,7 @@
             "github": "https://github.com/TuongPhamM",
             "linkedin": ""
         },
-        { 
+        {
             "name": "Xinran Zhang",
             "photo": "anon-profile-image.webp",
             "role": "Developer",
@@ -225,7 +225,7 @@
             "github": "https://github.com/JoyZhang2023",
             "linkedin": "https://www.linkedin.com/in/xinran-zhang-9100102b1"
         },
-        { 
+        {
             "name": "Omar Garmela",
             "photo": "anon-profile-image.webp",
             "role": "Developer",
@@ -234,7 +234,7 @@
             "github": "https://github.com/ogarmela",
             "linkedin": ""
         },
-        { 
+        {
             "name": "Asfandyar Tanwer",
             "photo": "Asfand-Tanwer.webp",
             "role": "Developer",
@@ -243,7 +243,7 @@
             "github": "https://github.com/Asfand00",
             "linkedin": "https://www.linkedin.com/in/asfandyar-tanwer-b85514289/"
         },
-        { 
+        {
             "name": "Bradley Charles",
             "photo": "Bradley-Charles.webp",
             "role": "Developer",
@@ -252,7 +252,7 @@
             "github": "https://github.com/BradleyCharles",
             "linkedin": "https://www.linkedin.com/in/bradgcharles/"
         },
-        { 
+        {
             "name": "Nicholas Wade Miller",
             "photo": "Nicholas-Wade-Miller.webp",
             "role": "Developer",
@@ -261,7 +261,7 @@
             "github": "https://github.com/nwm516",
             "linkedin": "https://www.linkedin.com/in/nw-miller/"
         },
-        { 
+        {
             "name": "Diego Cano",
             "photo": "Diego-Cano.webp",
             "role": "Developer",
@@ -270,7 +270,7 @@
             "github": "https://github.com/Diego-Cano",
             "linkedin": "https://www.linkedin.com/in/diegocanousa"
         },
-        { 
+        {
             "name": "Alas Ali",
             "photo": "anon-profile-image.webp",
             "role": "Developer",
@@ -279,7 +279,7 @@
             "github": "https://github.com/alasali1",
             "linkedin": "https://www.linkedin.com/in/alas-ali-66bb0a19a/"
         },
-        { 
+        {
             "name": "Lars Swenson",
             "photo": "Lars-Swenson.webp",
             "role": "Developer",
@@ -288,7 +288,7 @@
             "github": "https://github.com/larsswenson",
             "linkedin": "https://www.linkedin.com/in/lars-swenson/"
         },
-        { 
+        {
             "name": "Nha Minh Pham",
             "photo": "Nha-Pham.webp",
             "role": "Developer",
@@ -297,7 +297,7 @@
             "github": "https://github.com/nhapham03",
             "linkedin": "https://www.linkedin.com/in/nha-pham-96a181295/"
         },
-        { 
+        {
             "name": "Luiz Ramos",
             "photo": "Luiz-Ramos.webp",
             "role": "Developer",
@@ -306,7 +306,7 @@
             "github": "https://github.com/alzavio",
             "linkedin": "https://www.linkedin.com/in/luizrm/"
         },
-        { 
+        {
             "name": "Biruk Beyene",
             "photo": "anon-profile-image.webp",
             "role": "Developer",
@@ -315,7 +315,7 @@
             "github": "https://github.com/gitbiruk2010",
             "linkedin": ""
         },
-        { 
+        {
             "name": "Jesse Caddell",
             "photo": "Jesse-Caddell.webp",
             "role": "Technical Program Manager",
@@ -324,7 +324,7 @@
             "github": "https://github.com/JesseCaddell",
             "linkedin": "https://www.linkedin.com/in/jesse-caddell-316086296/"
         },
-        { 
+        {
             "name": "Miguel Quintana Olivares",
             "photo": "anon-profile-image.webp",
             "role": "Developer",
@@ -333,7 +333,7 @@
             "github": "https://github.com/miqo1385",
             "linkedin": "https://www.linkedin.com/in/miguelignacioquintana/"
         },
-        { 
+        {
             "name": "Lilith Caldwell",
             "photo": "anon-profile-image.webp",
             "role": "Developer",
@@ -342,7 +342,7 @@
             "github": "https://github.com/MaddasaHatter",
             "linkedin": ""
         },
-        { 
+        {
             "name": "Omar Aden",
             "photo": "anon-profile-image.webp",
             "role": "Developer",
@@ -351,7 +351,7 @@
             "github": "",
             "linkedin": "https://www.linkedin.com/in/omar-Aden/"
         },
-        { 
+        {
             "name": "Elida Ribeiro de Souza",
             "photo": "Elida-Ribeiro-de-Souza.webp",
             "role": "Developer",
@@ -411,7 +411,7 @@
             "email": "johnff0609@gmail.com",
             "github": "https://github.com/johnff9",
             "linkedin": "https:///www.linkedin.com/in/john-farnandez"
-        },  
+        },
         {
             "name": "Zulbadam Batdelger",
             "photo": "Zulbadam-Batdelger.webp",
@@ -420,6 +420,103 @@
             "email": "zulbadamz@gmail.com",
             "github": "https://github.com/Zulbadamz",
             "linkedin": "https://www.linkedin.com/in/zulbadam-batdelger-aa91851b7/"
+        },
+        {
+            "name": "Fathiya Yoosef",
+            "photo": "fathiya_50.jpg",
+            "role": "Developer",
+            "about": "I'm doing a bachelor's degree in application development at North Seattle Colloge. I will graduate 2027",
+            "email": "fathiya.yoosef@asettale.colleges.edu",
+            "github": "https://github.com/Dhool143",
+            "linkedin": "https://www.linkedin.com/in/fathiya-yoosef-0a9a5620b/"
+        },
+        {
+            "name": "David Davis",
+            "photo": "David-Davis.webp",
+            "role": "Developer",
+            "about": "BAS‑AD student who approaches challenges with structure and persistence, always aiming for clean, intuitive results.",
+            "email": "barrcardavis@gmail.com",
+            "github": "https://github.com/Barrcardavis",
+            "linkedin": "https://www.linkedin.com/in/david-davis-010000194/"
+        },
+        {
+            "name": "Bashir Abdulkadir",
+            "photo": "anon-profile-image.webp",
+            "role": "Application Development Student",
+            "about": "I am an Application Development student focused on building real-world projects and improving my collaboration and GitHub workflow skills.",
+            "email": "bashir3355@gmail.com",
+            "github": "https://github.com/Bashir3355",
+            "linkedin": ""
+        },
+        {
+            "name": "El Brewster",
+            "photo": "El-Brewster.webp",
+            "role": "Developer",
+            "about": "I love JavaScript.",
+            "email": "brewsterel3@gmail.com",
+            "github": "https://github.com/elbi3",
+            "linkedin": "https://www.linkedin.com/in/el-brewster/"
+        },
+        {
+            "name": "Ellie Noble",
+            "photo": "ellie-noble.webp",
+            "role": "Developer",
+            "about": "AD Student with an associates in Graphic Design and a passion for for user focused design and accessibility. I want to build designs that bring people joy.",
+            "email": "Ellie.Noble@seattlecolleges.edu",
+            "github": "https://github.com/ellieNoble13"
+        },
+        {
+            "name": "Bade Habib",
+            "photo": "Bade-Habib.webp",
+            "role": "Developer",
+            "about": "Full stack software engineer and ex-Navy aircraft carrier IT systems administrator with experience in web and game development. Currently interested in transitioning to a DevOps role.",
+            "email": "bjhabib93@gmail.com",
+            "github": "https://github.com/JungDefiant",
+            "linkedin": "https://www.linkedin.com/in/badehabib/"
+        },
+        {
+            "name": "José Antonio Horta Herrera",
+            "photo": "anon-profile-image.webp",
+            "role": "Computer Science Student",
+            "about": "Computer Science student passionate about learning software development, improving problem-solving skills, and growing in full stack and AI technologies.",
+            "email": "hortajose08@gmail.com",
+            "github": "https://github.com/josehorta21",
+            "linkedin": "https://www.linkedin.com/in/jose-antonio-horta-herrera-76b243336"
+        },
+        {
+            "name": "Reid SantaBarbara",
+            "photo": "Reid-Santabarbara.webp",
+            "role": "Developer",
+            "about": "I am a curious developer learning each day",
+            "email": "reid.santabarbara@seattlecolleges.edu",
+            "github": "https://github.com/olympusmons1256",
+            "linkedin": "https://www.linkedin.com/in/reid-santabarbara-9a70364b/"
+        },
+        {
+            "name": "Evelyn Bushell",
+            "photo": "Evelyn-Bushell.webp",
+            "role": " Student Developer",
+            "about": "A Junior student who loves the puzzles of problem solving, I love just how many different things there are to learn.",
+            "email": "evelynabushell@gmail.com",
+            "github": "https://github.com/Eveybushell",
+            "linkedin": "https://www.linkedin.com/in/evelyn-bushell-6a475639a/"
+        },
+        {
+            "name": "Eric Cashman",
+            "photo": "Eric-Cashman.webp",
+            "role": "Developer",
+            "about": "Pursuing a Bachelors in Application Development. My goals is to pursue Grad school to conduct research about data and real world implications",
+            "email": "sircashmaneric@gmail.com",
+            "github": "https://github.com/Eric-Cashman",
+            "linkedin": "https://www.linkedin.com/in/Eric-Cashman/"
+        },
+        {
+            "name": "Dara Sen",
+            "photo": "Dara-Sen.webp",
+            "about": "Passonate about Full-Stack Development, Machine Learning and Data Science",
+            "email": "darasen0277@gmail.com",
+            "github": "https://github.com/DS-0277",
+            "linkedin": "https://www.linkedin.com/in/dara-sen-24681863/"
         },
         {
             "name": "Hyejin Lee",
@@ -438,6 +535,49 @@
             "email": "dennizgarza@gmail.com",
             "github": "https://github.com/DennizGarza1234",
             "linkedin": "https://www.linkedin.com/in/denniz-garza-8138693b4/"
+            "name": "Mark Yosinao",
+            "photo": "m_yosinao.webp",
+            "role": "Developer",
+            "about": "I am pursuing the App Dev BAS degree with an emphasis on creating practical, impactful software solutions for real‑world needs.",
+            "email": "yosinaom@gmail.com",
+            "github": "https://github.com/makayo",
+            "linkedin": "https://www.linkedin.com/in/mark-yosinao-4914a3200/"
+        },
+        {
+            "name": "An Nhat Tran",
+            "photo": "An_Nhat_Tran.webp",
+            "role": "Developer",
+            "about": "Hello, I'm An (Andy), a student in the AppDev program, and I am eager to learn. I play mahjong with the Seattle Riichi mahjong club.",
+            "email": "nhatan05092005@gmail.com",
+            "github": "https://github.com/SUPER444E",
+            "linkedin": "https://www.linkedin.com/in/an-nhat-tran-a98a5a35b/"
+        },
+        {
+            "name": "Copper Wilson",
+            "photo": "Copper-Wilson.webp",
+            "role": "Student",
+            "about": "Current NSC AD BAS student",
+            "email": "",
+            "github": "https://github.com/cuwilson",
+            "linkedin": "https://www.linkedin.com/in/copper-wilson-a60314188/"
+        },
+        {
+            "name": "Andy Douglas",
+            "photo": "Andy-Douglas.webp",
+            "role": "Developer",
+            "about": "NSC AD BAS current student.",
+            "email": "andydouglas6416@gmail.com",
+            "github": "https://github.com/adouglas20",
+            "linkedin": "www.linkedin.com/in/adougl"
+        },
+        {
+            "name": "Ermiyas Hailemichael",
+            "photo": "anon-profile-image.webp",
+            "role": "NSC AD BAS Student",
+            "about": "I'm currently pursuing a Bachelor's degree in Application Development at North Seattle College. I enjoy building web applications and am expanding my skills in TypeScript, Node.js, and Express.js.",
+            "email": "yemeerma11@gmail.com",
+            "github": "https://github.com/ErmiyasHailemichael",
+            "linkedin": "https://www.linkedin.com/in/ehailemichael/"
         }
     ]
 }
