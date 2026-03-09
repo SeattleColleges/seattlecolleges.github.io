@@ -591,6 +591,15 @@
             "linkedin": "https://www.linkedin.com/in/ehailemichael/"
         },
         {
+            "name": "William Anderson",
+            "photo": "anon-profile-image.webp",
+            "role": "Developer",
+            "about": "I'm currently pursuing a Bachelor's degree in Application Development at North Seattle College. I enjoy building web applications and am expanding my skills in TypeScript, Node.js, and Express.js.",
+            "email": "william.l.anderson2@seattlecolleges.edu",
+            "github": "https://github.com/sstar691969",
+            "linkedin": "https://www.linkedin.com/in/williamanderson2424/"
+        },
+        {
         "name": "Yisakor Mirany",
         "photo": "Yisakor-Mirany.webp",
         "role": "Developer",
