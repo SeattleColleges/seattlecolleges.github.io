@@ -616,6 +616,16 @@
             "email": "kokobugbai30@gmail.com",
             "github": "https://github.com/koki-star",
             "linkedin": "https://www.linkedin.com/in/kokob-haile/"
+        },  
+        {
+            "name": "Michael Tamirat",
+            "photo": "Michael-Tamirat.jpeg",
+            "role": "Technical Project Manager",
+            "about": "Currently enrolled in the North Seattle College Application Development BAS program. Passionate about technology, leadership, and teamwork. I enjoy collaborating with others, organizing projects effectively, and helping teams deliver high-quality solutions while continuously improving my technical and project management skills.",
+            "email": "michaelb.tamirat@gmail.com",
+            "github": "https://github.com/Mtamirat",
+            "linkedin": "https://www.linkedin.com/in/michael-tamirat/"
         }
+   
     ]
 }
