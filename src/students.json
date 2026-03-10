@@ -1,621 +1,630 @@
 {
-    "students": [
-        {
-            "name": "James Mathew",
-            "photo": "James-Mathew.webp",
-            "role": "Developer",
-            "about": "I’m currently pursuing a Bachelor’s degree in Application Development at North Seattle College, with an expected graduation date of June 2026. My academic focus is on both front-end and back-end development, with hands-on experience using technologies like React, Java, and Python. I'm passionate about building functional, user-friendly applications and continuously expanding my skills through coursework and collaborative projects.",
-            "email": "mathewj2009@gmail.com",
-            "github": "https://github.com/jmathew12",
-            "linkedin": "https://www.linkedin.com/in/jmathew12/"
-        },
-        {
-            "name": "Brandon Dombrowsky",
-            "photo": "Brandon-Dombrowsky.webp",
-            "role": "Technical Program Manager",
-            "about": "BAS-AD 2023 program graduate currently working at Microsoft as a Technical Program Manager. Passionate about innovative problem-solving, strategizing for long-term growth, and inspiring greatness in my team, I am committed to leaving every environment better than I found it. My leadership philosophy revolves around mentoring and empowering my team to exceed even my own achievements.",
-            "email": "brandondombrowsky@gmail.com",
-            "github": "https://github.com/brandondombrowsky",
-            "linkedin": "https://www.linkedin.com/in/brandon-dombrowsky/"
-        },
-        {
-            "name": "Emily Brink",
-            "photo": "Emily-Brink.webp",
-            "role": "Technical Program Manager",
-            "about": "Passionate about research and data driven collaborative approaches to technical project and program management.",
-            "email": "brinkbrink@gmail.com",
-            "github": "https://github.com/brinkbrink",
-            "linkedin": "https://www.linkedin.com/in/eebrink/"
-        },
-        {
-            "name": "Taylor Papke",
-            "photo": "Taylor-Papke.webp",
-            "role": "Product Owner / Technical Project Manager",
-            "about": "NSC AD BAS 2024 Graduate. Passionate about leadership, teamwork and always doing our best!",
-            "email": "taylorpapke.student@gmail.com",
-            "github": "https://github.com/orgs/SeattleColleges/people/taylorpapke",
-            "linkedin": "https://www.linkedin.com/in/taylor-papke/"
-        },
-        {
-            "name": "Nicklas Di Pietro",
-            "photo": "Nicklas-Di-Pietro.webp",
-            "role": "Technical Project Manager",
-            "about": "I am a dedicated Software Developer fueled by an insatiable appetite for growth, both professionally and personally. I find joy in the journey of mastering both realms. Leveraging my knack for communication, I specialize in translating complex technical concepts into digestible insights for clients, ensuring clarity and comfort in every interaction. Beyond coding and problem-solving, you'll often find me on an adventure with my growing family or engaging in various game sessions during my downtime.",
-            "email": "nicklasdipietro@gmail.com",
-            "github": "https://github.com/Seiyaroo",
-            "linkedin": "https://www.linkedin.com/in/nicklasdipietro/"
-        },
-        {
-            "name": "Hanan Osman",
-            "photo": "anon-profile-image.webp",
-            "role": "Product Owner",
-            "about": "I'm a senior in the AD BAS program at North Seattle College who aspires to be a front-end developer. My hobbies consist of reading, cafe-hopping, crocheting, gaming, and watching movies/shows.",
-            "email": "hanan.osman@seattlecolleges.edu",
-            "github": "https://github.com/heosman",
-            "linkedin": "https://www.linkedin.com/in/hanan-osman/"
-        },
-        {
-            "name": "Keiffer Tan",
-            "photo": "Keiffer-Tan.webp",
-            "role": "Product Owner",
-            "about": "Hello! I love sweets treats and plants! ",
-            "email": "keiffercraig.tan@seattlecolleges.edu",
-            "github": "https://github.com/keiffer213",
-            "linkedin": "https://www.linkedin.com/in/keiffer-tan-817a56211/"
-        },
-        {
-            "name": "Tin Pham",
-            "photo": "Tin-Pham.webp",
-            "role": "Lead Developer",
-            "about": "I am an enthusiastic software developer who is eager to see how software can enhance our daily lives.",
-            "email": "nhattin55@gmail.com",
-            "github": "https://github.com/tinpham5614",
-            "linkedin": "https://www.linkedin.com/in/tinpham5614/"
-        },
-        {
-            "name": "Robel Hailu",
-            "photo": "anon-profile-image.webp",
-            "role": "Lead Developer",
-            "about": "",
-            "email": "robel.hailu@seattlecolleges.edu",
-            "github": "https://github.com/Robel-003",
-            "linkedin": ""
-        },
-        {
-            "name": "Jeremy Ward",
-            "photo": "Jeremy-Ward.webp",
-            "role": "Lead Developer",
-            "about": "Superb Software Engineer specializing in resilient backend architectures and infrastructure automation",
-            "email": "jeremy.ward@seattlecentral.edu",
-            "github": "https://github.com/Exochos",
-            "linkedin": "https://www.linkedin.com/in/jeremycward"
-        },
-        {
-            "name": "Nahom Worku",
-            "photo": "anon-profile-image.webp",
-            "role": "Lead Developer",
-            "about": "",
-            "email": "nahom.worku2015@gmail.com",
-            "github": "https://github.com/NahomAlemu",
-            "linkedin": ""
-        },
-        {
-            "name": "Intisar Osman",
-            "photo": "anon-profile-image.webp",
-            "role": "Developer",
-            "about": "I am currently majoring in Application Management at North Seattle College and plan to be a front-end developer. In my free time, I enjoy working on my crochet and crafts small business.",
-            "email": "intisar.osman@seattlecolleges.edu",
-            "github": "https://github.com/intisarosman1",
-            "linkedin": "https://www.linkedin.com/in/intisarosman/"
-        },
-        {
-            "name": "Isaac J",
-            "photo": "anon-profile-image.webp",
-            "role": "Developer",
-            "about": "",
-            "email": "isaac.jimenez@seattlecolleges.edu",
-            "github": "https://github.com/IsaacJrTypes",
-            "linkedin": ""
-        },
-        {
-            "name": "Cameron Shimmin",
-            "photo": "Cameron-Shimmin.webp",
-            "role": "Developer",
-            "about": "Skilled Software Engineer with a robust understanding of languages and frameworks such as Node.js, React, Java, and more. Expertise spans Java, Web, and Mobile App Development, in addition to Cloud Computing.",
-            "email": "cameron.shimmin@seattlecolleges.edu",
-            "github": "https://github.com/cshimm",
-            "linkedin": "https://www.linkedin.com/in/cameronshimmin/"
-        },
-        {
-            "name": "Muhammadou Drammeh",
-            "photo": "Muhammadou-Drammeh.webp",
-            "role": "Developer",
-            "about": "I'm Muhammadou Drammeh, a North Seattle College alumnus with a Bachelor of Applied Science in Application Development. My goal is to thrive as a software engineer at a top-tier firm, where I can apply my passion for technology to innovate and create meaningful solutions.",
-            "email": "muhammadou1drammeh@gmail.com",
-            "github": "https://github.com/MuhammadNSC",
-            "linkedin": "https://www.linkedin.com/in/muhammadoudrammeh/"
-        },
-        {
-            "name": "Nickolas Ramirez",
-            "photo": "Nickolas-Ramirez.webp",
-            "role": "Product Owner / Lead Developer",
-            "about": "Application Development graduate with a passion for UI/UX and designing with a focus towards how others will interact with my application.",
-            "email": "nickolasram@gmail.com",
-            "github": "https://github.com/nickolasram",
-            "linkedin": "www.linkedin.com/in/ramrezdev"
-        },
-        {
-            "name": "Ali Sharif",
-            "photo": "anon-profile-image.webp",
-            "role": "Developer",
-            "about": "I'm an Application development student with an interest in creating Java backend RESTful API's with a React frontend. Eager to apply my skills to real-world projects and make an impact.",
-            "email": "alisharif29@gmail.com",
-            "github": "https://github.com/Ali-7s",
-            "linkedin": "https://www.linkedin.com/in/ali-sharif-22908a22b/"
-        },
-        {
-            "name": "Kai Manasse",
-            "photo": "anon-profile-image.webp",
-            "role": "Developer",
-            "about": "I am interesting on the Web Development.",
-            "email": "kaimanasse15@gmail.com",
-            "github": "https://github.com/kaimanasse15",
-            "linkedin": "https://www.linkedin.com/in/k-m-3729a4253/"
-        },
-        {
-            "name": "Kyle Kennedy",
-            "photo": "anon-profile-image.webp",
-            "role": "Developer",
-            "about": "",
-            "email": "kylekenne@gmail.com",
-            "github": "https://github.com/kkennedy-gh",
-            "linkedin": ""
-        },
-        {
-            "name": "Bennett Fife",
-            "photo": "Bennett-Fife.webp",
-            "role": "Developer",
-            "about": "Aspiring application/software developer pursuing a bachelors in Application Development at North Seattle College.",
-            "email": "bennett.fife@gmail.com",
-            "github": "https://github.com/bennettsf",
-            "linkedin": "https://www.linkedin.com/in/bennett-fife/"
-        },
-        {
-            "name": "Marco Bejarano Oseguera",
-            "photo": "Marco-Bejarano.webp",
-            "role": "Lead Developer",
-            "about": "Future Fullstack Developer pursuing a Bacherlors of Applied Science in Application Development at North Seattle College. I am skilled in React, React-Native and PSQL. I also helped out in developing projects like North Seattle College Events and GeekGirlCon while at North Seattle College.",
-            "email": "marco.bejarano@hotmail.com",
-            "github": "https://github.com/Bejarano03",
-            "linkedin": "https://www.linkedin.com/in/marcobejarano/"
-        },
-        {
-            "name": "Holly Judge",
-            "photo": "anon-profile-image.webp",
-            "role": "Developer",
-            "about": "",
-            "email": "Holly.Judge@Seattlecolleges.edu",
-            "github": "https://github.com/Aki047",
-            "linkedin": ""
-        },
-        {
-            "name": "Edwin Ho",
-            "photo": "anon-profile-image.webp",
-            "role": "Developer",
-            "about": "",
-            "email": "edwinh300@gmail.com",
-            "github": "https://github.com/krayzieeddi",
-            "linkedin": ""
-        },
-        {
-            "name": "Troy Pham",
-            "photo": "anon-profile-image.webp",
-            "role": "Developer",
-            "about": "",
-            "email": "phamminhtuong2003@yahoo.com",
-            "github": "https://github.com/TuongPhamM",
-            "linkedin": ""
-        },
-        {
-            "name": "Xinran Zhang",
-            "photo": "anon-profile-image.webp",
-            "role": "Developer",
-            "about": "Detail and result oriented software engineer with an emphasis in website development and database management.",
-            "email": "joyzhangxran@gmail.com",
-            "github": "https://github.com/JoyZhang2023",
-            "linkedin": "https://www.linkedin.com/in/xinran-zhang-9100102b1"
-        },
-        {
-            "name": "Omar Garmela",
-            "photo": "anon-profile-image.webp",
-            "role": "Developer",
-            "about": "",
-            "email": "omar.garmela@seattlecolleges.edu",
-            "github": "https://github.com/ogarmela",
-            "linkedin": ""
-        },
-        {
-            "name": "Asfandyar Tanwer",
-            "photo": "Asfand-Tanwer.webp",
-            "role": "Developer",
-            "about": "Hello, my name is Asfandyar Tanwer, I'm a student in the Application development program for North Seattle college and have been going to NSC for several years now. When I'm not coding or studying, I like to play video games, watch movies/TV and anime. Just like in coding, I love to problem-solve and strategize, which is why I have played video games since I was little. I hope to achieve great skills in this program to where I can apply them to real-world projects and have a good career. ",
-            "email": "asfandtanwer@yahoo.com",
-            "github": "https://github.com/Asfand00",
-            "linkedin": "https://www.linkedin.com/in/asfandyar-tanwer-b85514289/"
-        },
-        {
-            "name": "Bradley Charles",
-            "photo": "Bradley-Charles.webp",
-            "role": "Developer",
-            "about": "Nestled among the rolling peaks of the Appalachian mountains, I discovered my passion for outdoor exploration at a young age. There's something exhilarating about embarking on a hike through winding trails, diving into the cool waters of mountain streams, or setting up camp under the star-studded canopy of the night sky. These experiences have become an integral part of my identity, offering solace and adventure in equal measure whenever the weather permits. Yet, when the elements prove less accommodating, I find comfort and camaraderie in the company of my wife and friends. Whether gathered around a table engaging in strategic battles of wit and luck in board games, or testing our skills and friendships in spirited card game competitions, laughter and friendly banter are always in abundance. In quieter moments, I immerse myself in the boundless worlds of literature and television. The allure of sci-fi and fantasy genres captivates my imagination, transporting me to distant galaxies, magical realms, and thrilling adventures beyond the confines of reality. Through books and screen alike, I find respite and inspiration, each story a portal to new possibilities and perspectives. In essence, whether traversing rugged landscapes or engaging in indoor pastimes, my life is enriched by a tapestry of experiences that celebrate the beauty of nature, the joy of companionship, and the limitless realms of imagination.",
-            "email": "bradley.charles@seattlecolleges.edu",
-            "github": "https://github.com/BradleyCharles",
-            "linkedin": "https://www.linkedin.com/in/bradgcharles/"
-        },
-        {
-            "name": "Nicholas Wade Miller",
-            "photo": "Nicholas-Wade-Miller.webp",
-            "role": "Developer",
-            "about": "I have had a lot of varied interests in my life, including a love for computers and technology that started from a young age. I find that being a part of the Application Development program is a great fit for me. Though I may not know as much as a lot of my peers, I thoroughly enjoy the challenge and stepping into a realm where being a perpetual student is a must!",
-            "email": "nwmiller.516@gmail.com",
-            "github": "https://github.com/nwm516",
-            "linkedin": "https://www.linkedin.com/in/nw-miller/"
-        },
-        {
-            "name": "Diego Cano",
-            "photo": "Diego-Cano.webp",
-            "role": "Developer",
-            "about": "Hi, I'm Diego! I'm a 24-year-old student at North Seattle College, where I'm diving deep into programming and computer science. Originally from Venezuela, I've embraced the vibrant culture of Seattle while balancing my studies with my job as a server at bar. My passion for technology drives me to constantly learn and improve my skills. When I'm not coding or working, I enjoy outdoor activities and staying fit.  Let's connect and collaborate on exciting projects!",
-            "email": "dcano2810@gmail.com",
-            "github": "https://github.com/Diego-Cano",
-            "linkedin": "https://www.linkedin.com/in/diegocanousa"
-        },
-        {
-            "name": "Alas Ali",
-            "photo": "anon-profile-image.webp",
-            "role": "Developer",
-            "about": "My name is Alas Ali. I am a student in the Application Development program of NSC.  I like boxing, music, and hiking sometimes.",
-            "email": "calasocali@outlook.com",
-            "github": "https://github.com/alasali1",
-            "linkedin": "https://www.linkedin.com/in/alas-ali-66bb0a19a/"
-        },
-        {
-            "name": "Lars Swenson",
-            "photo": "Lars-Swenson.webp",
-            "role": "Developer",
-            "about": "Born and raised in Seattle, I recently majored in web development at Seattle Central College and am currently enrolled in the application development bachelor's program at North Seattle College.",
-            "email": "lars.swenson@gmail.com",
-            "github": "https://github.com/larsswenson",
-            "linkedin": "https://www.linkedin.com/in/lars-swenson/"
-        },
-        {
-            "name": "Nha Minh Pham",
-            "photo": "Nha-Pham.webp",
-            "role": "Developer",
-            "about": "I am an international student from Vietnam. Currently a Junior in AD program at North. I am also a member of Student Leadership here.",
-            "email": "phamminhnha2003@gmail.com",
-            "github": "https://github.com/nhapham03",
-            "linkedin": "https://www.linkedin.com/in/nha-pham-96a181295/"
-        },
-        {
-            "name": "Luiz Ramos",
-            "photo": "Luiz-Ramos.webp",
-            "role": "Developer",
-            "about": "I'm a Tableau/Business Intelligence Developer with 7 years of experience in data related roles, but back in university to finish my degree in application development and further my career.",
-            "email": "luiz.matthew.ramos@gmail.com",
-            "github": "https://github.com/alzavio",
-            "linkedin": "https://www.linkedin.com/in/luizrm/"
-        },
-        {
-            "name": "Biruk Beyene",
-            "photo": "anon-profile-image.webp",
-            "role": "Developer",
-            "about": "Hi, my name is Biruk. I am a SharePoint Developer @ Pokémon. I love exploring new places, travelling, learning new things, and spending time with family and friends. In my free time, you can find me working on cars, hiking, or working on music production.",
-            "email": "biruk.beyene@seattlecolleges.edu",
-            "github": "https://github.com/gitbiruk2010",
-            "linkedin": ""
-        },
-        {
-            "name": "Jesse Caddell",
-            "photo": "Jesse-Caddell.webp",
-            "role": "Technical Program Manager",
-            "about": "I have a passion for working on games and apps. I currently have a fascination with twitch applications! I am a music lover and can be found at live events often.",
-            "email": "jesse.caddell@wsu.edu",
-            "github": "https://github.com/JesseCaddell",
-            "linkedin": "https://www.linkedin.com/in/jesse-caddell-316086296/"
-        },
-        {
-            "name": "Miguel Quintana Olivares",
-            "photo": "anon-profile-image.webp",
-            "role": "Developer",
-            "about": "I'm from Chile and I love dogs more than persons.",
-            "email": "miqo1385@gmail.com",
-            "github": "https://github.com/miqo1385",
-            "linkedin": "https://www.linkedin.com/in/miguelignacioquintana/"
-        },
-        {
-            "name": "Lilith Caldwell",
-            "photo": "anon-profile-image.webp",
-            "role": "Developer",
-            "about": "",
-            "email": "",
-            "github": "https://github.com/MaddasaHatter",
-            "linkedin": ""
-        },
-        {
-            "name": "Omar Aden",
-            "photo": "anon-profile-image.webp",
-            "role": "Developer",
-            "about": "Omar Aden, I'm doing a bachelor's degree in application development. I will graduate this summer",
-            "email": "",
-            "github": "",
-            "linkedin": "https://www.linkedin.com/in/omar-Aden/"
-        },
-        {
-            "name": "Elida Ribeiro de Souza",
-            "photo": "Elida-Ribeiro-de-Souza.webp",
-            "role": "Developer",
-            "about": "Hello! I'm Elida Ribeiro de Souza, a dedicated and passionate student currently pursuing a degree in Applied Development at North Seattle College. With a keen interest in software development, data science, artificial intelligence, data analysis, deep learning, and machine learning, I am constantly seeking opportunities to learn and grow. I have a strong foundation in JavaScript, React, Python, SQL, Java, NumPy, and pandas. I recently earned my Google TensorFlow certification, further solidifying my expertise in deep learning. In my free time, I enjoy cooking, coding deep learning projects, and hiking. I am excited to connect with like-minded individuals and contribute to meaningful projects that make a difference.",
-            "email": "",
-            "github": "",
-            "linkedin": "https://www.linkedin.com/in/elida-ribeiro-de-souza-56505a53/"
-        },
-        {
-            "name": "Khanh Trinh Nguyen",
-            "photo": "Khanh-Trinh-Nguyen.webp",
-            "role": "Developer",
-            "about": "Passionate Software Developer with experience in multiple programming languages and frameworks. Currently honing skills in web and mobile development while leveraging past expertise in networking to advance toward NetOps.",
-            "email": "khanhtrinhvnguyen@gmail.com",
-            "github": "https://github.com/LiteWilliamNguyen",
-            "linkedin": "https://www.linkedin.com/in/khanhtrinh-nguyen/"
-        },
-        {
-            "name": "Azarias A'Neals",
-            "photo": "Azarias-A'Neals.webp",
-            "role": "Developer",
-            "about": "Hello! my name is Azarias A'Neals, and I am currently enrolled in North Seattle College's Application Development program. ",
-            "email": "AzariasA@protonmail.com",
-            "github": "https://github.com/AzariasANeals",
-            "linkedin": "https://www.linkedin.com/in/azarias-a-neals-64113a188/"
-        },
-        {
-            "name": "Beimnet Tesfaye",
-            "photo": "Beimnet-tesfaye.webp",
-            "about": "Application development student passionate about building inclusive, user-friendly web applications using modern technologies like React and Java.",
-            "email": "beimnettesfaye@gmail.com",
-            "github": "https://github.com/beimnettes",
-            "linkedin": "https://www.linkedin.com/in/beimnet-tesfaye-220418291"
-        },
-        {
-            "name": "Katrina Hill",
-            "photo": "Katrina-Hill.webp",
-            "role": "Developer",
-            "about": "Motivated Software Developer with a keen understanding of developing applications in multiple programming languages. Currently pursuing a Bachelor's degree in Application Development at North Seattle College.",
-            "email": "khill365@gmail.com",
-            "github": "https://github.com/katrina-l-hill",
-            "linkedin": "https://www.linkedin.com/in/katrina-l-hill/"
-        },
-        {
-            "name": "Luwam Habtu",
-            "photo": "Luwam-Habtu.webp",
-            "about": "I'm doing a bachelor's degree in application development. I will graduate this spring.",
-            "email": "luwamhabtu07@gmail.com",
-            "github": "https://github.com/luwamhabtu07",
-            "linkedin": "https://www.linkedin.com/in/luwam-habtu-803915300/"
-        },
-        {
-            "name": "John Farnandez",
-            "photo": "John-Farnandez.webp",
-            "role": "Developer",
-            "about": "I'm currently a senior in the CS graduate program with a concentration in Data Science in the data science practicum. Hoping to learn more about working with clients through the AD projects.",
-            "email": "johnff0609@gmail.com",
-            "github": "https://github.com/johnff9",
-            "linkedin": "https:///www.linkedin.com/in/john-farnandez"
-        },
-        {
-            "name": "Zulbadam Batdelger",
-            "photo": "Zulbadam-Batdelger.webp",
-            "role": "Developer",
-            "about": "Passionate about UI/UX design, with a strong focus on continuous improvement. Recently exploring cloud technologies such as AWS and emerging applications of AI.",
-            "email": "zulbadamz@gmail.com",
-            "github": "https://github.com/Zulbadamz",
-            "linkedin": "https://www.linkedin.com/in/zulbadam-batdelger-aa91851b7/"
-        },
-        {
-            "name": "Fathiya Yoosef",
-            "photo": "fathiya_50.jpg",
-            "role": "Developer",
-            "about": "I'm doing a bachelor's degree in application development at North Seattle Colloge. I will graduate 2027",
-            "email": "fathiya.yoosef@asettale.colleges.edu",
-            "github": "https://github.com/Dhool143",
-            "linkedin": "https://www.linkedin.com/in/fathiya-yoosef-0a9a5620b/"
-        },
-        {
-            "name": "David Davis",
-            "photo": "David-Davis.webp",
-            "role": "Developer",
-            "about": "BAS‑AD student who approaches challenges with structure and persistence, always aiming for clean, intuitive results.",
-            "email": "barrcardavis@gmail.com",
-            "github": "https://github.com/Barrcardavis",
-            "linkedin": "https://www.linkedin.com/in/david-davis-010000194/"
-        },
-        {
-            "name": "Bashir Abdulkadir",
-            "photo": "anon-profile-image.webp",
-            "role": "Application Development Student",
-            "about": "I am an Application Development student focused on building real-world projects and improving my collaboration and GitHub workflow skills.",
-            "email": "bashir3355@gmail.com",
-            "github": "https://github.com/Bashir3355",
-            "linkedin": ""
-        },
-        {
-            "name": "El Brewster",
-            "photo": "El-Brewster.webp",
-            "role": "Developer",
-            "about": "I love JavaScript.",
-            "email": "brewsterel3@gmail.com",
-            "github": "https://github.com/elbi3",
-            "linkedin": "https://www.linkedin.com/in/el-brewster/"
-        },
-        {
-            "name": "Ellie Noble",
-            "photo": "ellie-noble.webp",
-            "role": "Developer",
-            "about": "AD Student with an associates in Graphic Design and a passion for for user focused design and accessibility. I want to build designs that bring people joy.",
-            "email": "Ellie.Noble@seattlecolleges.edu",
-            "github": "https://github.com/ellieNoble13"
-        },
-        {
-            "name": "Bade Habib",
-            "photo": "Bade-Habib.webp",
-            "role": "Developer",
-            "about": "Full stack software engineer and ex-Navy aircraft carrier IT systems administrator with experience in web and game development. Currently interested in transitioning to a DevOps role.",
-            "email": "bjhabib93@gmail.com",
-            "github": "https://github.com/JungDefiant",
-            "linkedin": "https://www.linkedin.com/in/badehabib/"
-        },
-        {
-            "name": "José Antonio Horta Herrera",
-            "photo": "Jose-Horta.webp",
-            "role": "Computer Science Student",
-            "about": "Computer Science student passionate about learning software development, improving problem-solving skills, and growing in full stack and AI technologies.",
-            "email": "hortajose08@gmail.com",
-            "github": "https://github.com/josehorta21",
-            "linkedin": "https://www.linkedin.com/in/jose-antonio-horta-herrera-76b243336"
-        },
-        {
-            "name": "Reid SantaBarbara",
-            "photo": "Reid-Santabarbara.webp",
-            "role": "Developer",
-            "about": "I am a curious developer learning each day",
-            "email": "reid.santabarbara@seattlecolleges.edu",
-            "github": "https://github.com/olympusmons1256",
-            "linkedin": "https://www.linkedin.com/in/reid-santabarbara-9a70364b/"
-        },
-        {
-            "name": "Evelyn Bushell",
-            "photo": "Evelyn-Bushell.webp",
-            "role": " Student Developer",
-            "about": "A Junior student who loves the puzzles of problem solving, I love just how many different things there are to learn.",
-            "email": "evelynabushell@gmail.com",
-            "github": "https://github.com/Eveybushell",
-            "linkedin": "https://www.linkedin.com/in/evelyn-bushell-6a475639a/"
-        },
-        {
-            "name": "Eric Cashman",
-            "photo": "Eric-Cashman.webp",
-            "role": "Developer",
-            "about": "Pursuing a Bachelors in Application Development. My goals is to pursue Grad school to conduct research about data and real world implications",
-            "email": "sircashmaneric@gmail.com",
-            "github": "https://github.com/Eric-Cashman",
-            "linkedin": "https://www.linkedin.com/in/Eric-Cashman/"
-        },
-        {
-            "name": "Dara Sen",
-            "photo": "Dara-Sen.webp",
-            "about": "Passonate about Full-Stack Development, Machine Learning and Data Science",
-            "email": "darasen0277@gmail.com",
-            "github": "https://github.com/DS-0277",
-            "linkedin": "https://www.linkedin.com/in/dara-sen-24681863/"
-        },
-        {
-            "name": "Hyejin Lee",
-            "photo": "anon-profile-image.webp",
-            "role": "AD311 Student",
-            "about": "NSC AD BAS current student.",
-            "email": "xthsu27x@gmail.com",
-            "github": "https://github.com/HJLee82",
-            "linkedin": "https://www.linkedin.com/in/hyejin-lee-948966303/"
-        },
-        {
-            "name": "Dmitriy SC",
-            "photo": "Dmitriy_S_C.webp",
-            "role": "Software Development Entrepreneur",
-            "about": "Interested in being specialized as a Highly Adaptive Code Kinematics Enterprise Respondent that focuses on fluid movement of data across hybrid environments. Unlike traditional developers, a H.A.C.K.E.R. excels at the intersection of OS-level subsystems and high-level application logic. The goal is to be responsible for testing/building resilient data structures, ensuring cross-platform compatibility (Linux/Windows), and maintaining rigorous quality standards through automated test-driven development.",
-            "email": "dmitriy.chernichenko@seattlecolleges.edu",
-            "github": "https://github.com/DiscipleA",
-            "linkedin": "https://studentlearningcenteratnorthseattlecollege.wordpress.com/2024/02/21/this-tutor-makes-the-most-of-time/"
-        },
-        {
-            "name" : "Ingrid Arenas Rosas",
-            "photo": "Ingrid-Arenas-Rosas.webp",
-            "role": "Student",
-            "about": "Current BAS Student, I love learning new things and expanding my knowledge.",
-            "email": "ingridarenasrosas@seattlecolleges.edu",
-            "github": "https://github.com/Ilikemyhome",
-            "linkedin" : "https://www.linkedin.com/in/ingridarenasrosas"
-        },
-        {
-            "name": "Mark Yosinao",
-            "photo": "m_yosinao.webp",
-            "role": "Developer",
-            "about": "I am pursuing the App Dev BAS degree with an emphasis on creating practical, impactful software solutions for real‑world needs.",
-            "email": "yosinaom@gmail.com",
-            "github": "https://github.com/makayo",
-            "linkedin": "https://www.linkedin.com/in/mark-yosinao-4914a3200/"
-        },
-        {
-            "name": "An Nhat Tran",
-            "photo": "An_Nhat_Tran.webp",
-            "role": "Developer",
-            "about": "Hello, I'm An (Andy), a student in the AppDev program, and I am eager to learn. I play mahjong with the Seattle Riichi mahjong club.",
-            "email": "nhatan05092005@gmail.com",
-            "github": "https://github.com/SUPER444E",
-            "linkedin": "https://www.linkedin.com/in/an-nhat-tran-a98a5a35b/"
-        },
-        {
-            "name": "Copper Wilson",
-            "photo": "Copper-Wilson.webp",
-            "role": "Student",
-            "about": "Current NSC AD BAS student",
-            "email": "",
-            "github": "https://github.com/cuwilson",
-            "linkedin": "https://www.linkedin.com/in/copper-wilson-a60314188/"
-        },
-        {
-            "name": "Andy Douglas",
-            "photo": "Andy-Douglas.webp",
-            "role": "Developer",
-            "about": "NSC AD BAS current student.",
-            "email": "andydouglas6416@gmail.com",
-            "github": "https://github.com/adouglas20",
-            "linkedin": "www.linkedin.com/in/adougl"
-        },
-        {
-            "name": "Ermiyas Hailemichael",
-            "photo": "anon-profile-image.webp",
-            "role": "NSC AD BAS Student",
-            "about": "I'm currently pursuing a Bachelor's degree in Application Development at North Seattle College. I enjoy building web applications and am expanding my skills in TypeScript, Node.js, and Express.js.",
-            "email": "yemeerma11@gmail.com",
-            "github": "https://github.com/ErmiyasHailemichael",
-            "linkedin": "https://www.linkedin.com/in/ehailemichael/"
-        },
-        {
-            "name": "William Anderson",
-            "photo": "anon-profile-image.webp",
-            "role": "Developer",
-            "about": "I'm currently pursuing a Bachelor's degree in Application Development at North Seattle College. I enjoy building web applications and am expanding my skills in TypeScript, Node.js, and Express.js.",
-            "email": "william.l.anderson2@seattlecolleges.edu",
-            "github": "https://github.com/sstar691969",
-            "linkedin": "https://www.linkedin.com/in/williamanderson2424/"
-        },
-        {
-        "name": "Yisakor Mirany",
-        "photo": "Yisakor-Mirany.webp",
-        "role": "Developer",
-        "about": "Application Development & Computer Science Student | FastAPI • JavaScript • Frontend UI • ML Basics",
-        "email": "yisakor.mirr@gmail.com",
-        "github": "https://github.com/Yisakor-Mirany",
-        "linkedin": "https://www.linkedin.com/in/yisakor-mirany/"
-        },
-        {
-            "name": "Kokob Haile",
-            "photo": "Kokob-Haile.webp",
-            "role": "Application Developer",
-            "about": "I'm in the AD BAS program at North Seattle College. I'm learning web development and still figuring out what area of tech I want to focus on.",
-            "email": "kokobugbai30@gmail.com",
-            "github": "https://github.com/koki-star",
-            "linkedin": "https://www.linkedin.com/in/kokob-haile/"
-        }
-    ]
+  "students": [
+    {
+      "name": "James Mathew",
+      "photo": "James-Mathew.webp",
+      "role": "Developer",
+      "about": "I’m currently pursuing a Bachelor’s degree in Application Development at North Seattle College, with an expected graduation date of June 2026. My academic focus is on both front-end and back-end development, with hands-on experience using technologies like React, Java, and Python. I'm passionate about building functional, user-friendly applications and continuously expanding my skills through coursework and collaborative projects.",
+      "email": "mathewj2009@gmail.com",
+      "github": "https://github.com/jmathew12",
+      "linkedin": "https://www.linkedin.com/in/jmathew12/"
+    },
+    {
+      "name": "Brandon Dombrowsky",
+      "photo": "Brandon-Dombrowsky.webp",
+      "role": "Technical Program Manager",
+      "about": "BAS-AD 2023 program graduate currently working at Microsoft as a Technical Program Manager. Passionate about innovative problem-solving, strategizing for long-term growth, and inspiring greatness in my team, I am committed to leaving every environment better than I found it. My leadership philosophy revolves around mentoring and empowering my team to exceed even my own achievements.",
+      "email": "brandondombrowsky@gmail.com",
+      "github": "https://github.com/brandondombrowsky",
+      "linkedin": "https://www.linkedin.com/in/brandon-dombrowsky/"
+    },
+    {
+      "name": "Emily Brink",
+      "photo": "Emily-Brink.webp",
+      "role": "Technical Program Manager",
+      "about": "Passionate about research and data driven collaborative approaches to technical project and program management.",
+      "email": "brinkbrink@gmail.com",
+      "github": "https://github.com/brinkbrink",
+      "linkedin": "https://www.linkedin.com/in/eebrink/"
+    },
+    {
+      "name": "Taylor Papke",
+      "photo": "Taylor-Papke.webp",
+      "role": "Product Owner / Technical Project Manager",
+      "about": "NSC AD BAS 2024 Graduate. Passionate about leadership, teamwork and always doing our best!",
+      "email": "taylorpapke.student@gmail.com",
+      "github": "https://github.com/orgs/SeattleColleges/people/taylorpapke",
+      "linkedin": "https://www.linkedin.com/in/taylor-papke/"
+    },
+    {
+      "name": "Nicklas Di Pietro",
+      "photo": "Nicklas-Di-Pietro.webp",
+      "role": "Technical Project Manager",
+      "about": "I am a dedicated Software Developer fueled by an insatiable appetite for growth, both professionally and personally. I find joy in the journey of mastering both realms. Leveraging my knack for communication, I specialize in translating complex technical concepts into digestible insights for clients, ensuring clarity and comfort in every interaction. Beyond coding and problem-solving, you'll often find me on an adventure with my growing family or engaging in various game sessions during my downtime.",
+      "email": "nicklasdipietro@gmail.com",
+      "github": "https://github.com/Seiyaroo",
+      "linkedin": "https://www.linkedin.com/in/nicklasdipietro/"
+    },
+    {
+      "name": "Hanan Osman",
+      "photo": "anon-profile-image.webp",
+      "role": "Product Owner",
+      "about": "I'm a senior in the AD BAS program at North Seattle College who aspires to be a front-end developer. My hobbies consist of reading, cafe-hopping, crocheting, gaming, and watching movies/shows.",
+      "email": "hanan.osman@seattlecolleges.edu",
+      "github": "https://github.com/heosman",
+      "linkedin": "https://www.linkedin.com/in/hanan-osman/"
+    },
+    {
+      "name": "Keiffer Tan",
+      "photo": "Keiffer-Tan.webp",
+      "role": "Product Owner",
+      "about": "Hello! I love sweets treats and plants! ",
+      "email": "keiffercraig.tan@seattlecolleges.edu",
+      "github": "https://github.com/keiffer213",
+      "linkedin": "https://www.linkedin.com/in/keiffer-tan-817a56211/"
+    },
+    {
+      "name": "Tin Pham",
+      "photo": "Tin-Pham.webp",
+      "role": "Lead Developer",
+      "about": "I am an enthusiastic software developer who is eager to see how software can enhance our daily lives.",
+      "email": "nhattin55@gmail.com",
+      "github": "https://github.com/tinpham5614",
+      "linkedin": "https://www.linkedin.com/in/tinpham5614/"
+    },
+    {
+      "name": "Robel Hailu",
+      "photo": "anon-profile-image.webp",
+      "role": "Lead Developer",
+      "about": "",
+      "email": "robel.hailu@seattlecolleges.edu",
+      "github": "https://github.com/Robel-003",
+      "linkedin": ""
+    },
+    {
+      "name": "Jeremy Ward",
+      "photo": "Jeremy-Ward.webp",
+      "role": "Lead Developer",
+      "about": "Superb Software Engineer specializing in resilient backend architectures and infrastructure automation",
+      "email": "jeremy.ward@seattlecentral.edu",
+      "github": "https://github.com/Exochos",
+      "linkedin": "https://www.linkedin.com/in/jeremycward"
+    },
+    {
+      "name": "Nahom Worku",
+      "photo": "anon-profile-image.webp",
+      "role": "Lead Developer",
+      "about": "",
+      "email": "nahom.worku2015@gmail.com",
+      "github": "https://github.com/NahomAlemu",
+      "linkedin": ""
+    },
+    {
+      "name": "Intisar Osman",
+      "photo": "anon-profile-image.webp",
+      "role": "Developer",
+      "about": "I am currently majoring in Application Management at North Seattle College and plan to be a front-end developer. In my free time, I enjoy working on my crochet and crafts small business.",
+      "email": "intisar.osman@seattlecolleges.edu",
+      "github": "https://github.com/intisarosman1",
+      "linkedin": "https://www.linkedin.com/in/intisarosman/"
+    },
+    {
+      "name": "Isaac J",
+      "photo": "anon-profile-image.webp",
+      "role": "Developer",
+      "about": "",
+      "email": "isaac.jimenez@seattlecolleges.edu",
+      "github": "https://github.com/IsaacJrTypes",
+      "linkedin": ""
+    },
+    {
+      "name": "Cameron Shimmin",
+      "photo": "Cameron-Shimmin.webp",
+      "role": "Developer",
+      "about": "Skilled Software Engineer with a robust understanding of languages and frameworks such as Node.js, React, Java, and more. Expertise spans Java, Web, and Mobile App Development, in addition to Cloud Computing.",
+      "email": "cameron.shimmin@seattlecolleges.edu",
+      "github": "https://github.com/cshimm",
+      "linkedin": "https://www.linkedin.com/in/cameronshimmin/"
+    },
+    {
+      "name": "Muhammadou Drammeh",
+      "photo": "Muhammadou-Drammeh.webp",
+      "role": "Developer",
+      "about": "I'm Muhammadou Drammeh, a North Seattle College alumnus with a Bachelor of Applied Science in Application Development. My goal is to thrive as a software engineer at a top-tier firm, where I can apply my passion for technology to innovate and create meaningful solutions.",
+      "email": "muhammadou1drammeh@gmail.com",
+      "github": "https://github.com/MuhammadNSC",
+      "linkedin": "https://www.linkedin.com/in/muhammadoudrammeh/"
+    },
+    {
+      "name": "Nickolas Ramirez",
+      "photo": "Nickolas-Ramirez.webp",
+      "role": "Product Owner / Lead Developer",
+      "about": "Application Development graduate with a passion for UI/UX and designing with a focus towards how others will interact with my application.",
+      "email": "nickolasram@gmail.com",
+      "github": "https://github.com/nickolasram",
+      "linkedin": "www.linkedin.com/in/ramrezdev"
+    },
+    {
+      "name": "Ali Sharif",
+      "photo": "anon-profile-image.webp",
+      "role": "Developer",
+      "about": "I'm an Application development student with an interest in creating Java backend RESTful API's with a React frontend. Eager to apply my skills to real-world projects and make an impact.",
+      "email": "alisharif29@gmail.com",
+      "github": "https://github.com/Ali-7s",
+      "linkedin": "https://www.linkedin.com/in/ali-sharif-22908a22b/"
+    },
+    {
+      "name": "Kai Manasse",
+      "photo": "anon-profile-image.webp",
+      "role": "Developer",
+      "about": "I am interesting on the Web Development.",
+      "email": "kaimanasse15@gmail.com",
+      "github": "https://github.com/kaimanasse15",
+      "linkedin": "https://www.linkedin.com/in/k-m-3729a4253/"
+    },
+    {
+      "name": "Kyle Kennedy",
+      "photo": "anon-profile-image.webp",
+      "role": "Developer",
+      "about": "",
+      "email": "kylekenne@gmail.com",
+      "github": "https://github.com/kkennedy-gh",
+      "linkedin": ""
+    },
+    {
+      "name": "Bennett Fife",
+      "photo": "Bennett-Fife.webp",
+      "role": "Developer",
+      "about": "Aspiring application/software developer pursuing a bachelors in Application Development at North Seattle College.",
+      "email": "bennett.fife@gmail.com",
+      "github": "https://github.com/bennettsf",
+      "linkedin": "https://www.linkedin.com/in/bennett-fife/"
+    },
+    {
+      "name": "Marco Bejarano Oseguera",
+      "photo": "Marco-Bejarano.webp",
+      "role": "Lead Developer",
+      "about": "Future Fullstack Developer pursuing a Bacherlors of Applied Science in Application Development at North Seattle College. I am skilled in React, React-Native and PSQL. I also helped out in developing projects like North Seattle College Events and GeekGirlCon while at North Seattle College.",
+      "email": "marco.bejarano@hotmail.com",
+      "github": "https://github.com/Bejarano03",
+      "linkedin": "https://www.linkedin.com/in/marcobejarano/"
+    },
+    {
+      "name": "Holly Judge",
+      "photo": "anon-profile-image.webp",
+      "role": "Developer",
+      "about": "",
+      "email": "Holly.Judge@Seattlecolleges.edu",
+      "github": "https://github.com/Aki047",
+      "linkedin": ""
+    },
+    {
+      "name": "Edwin Ho",
+      "photo": "anon-profile-image.webp",
+      "role": "Developer",
+      "about": "",
+      "email": "edwinh300@gmail.com",
+      "github": "https://github.com/krayzieeddi",
+      "linkedin": ""
+    },
+    {
+      "name": "Troy Pham",
+      "photo": "anon-profile-image.webp",
+      "role": "Developer",
+      "about": "",
+      "email": "phamminhtuong2003@yahoo.com",
+      "github": "https://github.com/TuongPhamM",
+      "linkedin": ""
+    },
+    {
+      "name": "Xinran Zhang",
+      "photo": "anon-profile-image.webp",
+      "role": "Developer",
+      "about": "Detail and result oriented software engineer with an emphasis in website development and database management.",
+      "email": "joyzhangxran@gmail.com",
+      "github": "https://github.com/JoyZhang2023",
+      "linkedin": "https://www.linkedin.com/in/xinran-zhang-9100102b1"
+    },
+    {
+      "name": "Omar Garmela",
+      "photo": "anon-profile-image.webp",
+      "role": "Developer",
+      "about": "",
+      "email": "omar.garmela@seattlecolleges.edu",
+      "github": "https://github.com/ogarmela",
+      "linkedin": ""
+    },
+    {
+      "name": "Asfandyar Tanwer",
+      "photo": "Asfand-Tanwer.webp",
+      "role": "Developer",
+      "about": "Hello, my name is Asfandyar Tanwer, I'm a student in the Application development program for North Seattle college and have been going to NSC for several years now. When I'm not coding or studying, I like to play video games, watch movies/TV and anime. Just like in coding, I love to problem-solve and strategize, which is why I have played video games since I was little. I hope to achieve great skills in this program to where I can apply them to real-world projects and have a good career. ",
+      "email": "asfandtanwer@yahoo.com",
+      "github": "https://github.com/Asfand00",
+      "linkedin": "https://www.linkedin.com/in/asfandyar-tanwer-b85514289/"
+    },
+    {
+      "name": "Bradley Charles",
+      "photo": "Bradley-Charles.webp",
+      "role": "Developer",
+      "about": "Nestled among the rolling peaks of the Appalachian mountains, I discovered my passion for outdoor exploration at a young age. There's something exhilarating about embarking on a hike through winding trails, diving into the cool waters of mountain streams, or setting up camp under the star-studded canopy of the night sky. These experiences have become an integral part of my identity, offering solace and adventure in equal measure whenever the weather permits. Yet, when the elements prove less accommodating, I find comfort and camaraderie in the company of my wife and friends. Whether gathered around a table engaging in strategic battles of wit and luck in board games, or testing our skills and friendships in spirited card game competitions, laughter and friendly banter are always in abundance. In quieter moments, I immerse myself in the boundless worlds of literature and television. The allure of sci-fi and fantasy genres captivates my imagination, transporting me to distant galaxies, magical realms, and thrilling adventures beyond the confines of reality. Through books and screen alike, I find respite and inspiration, each story a portal to new possibilities and perspectives. In essence, whether traversing rugged landscapes or engaging in indoor pastimes, my life is enriched by a tapestry of experiences that celebrate the beauty of nature, the joy of companionship, and the limitless realms of imagination.",
+      "email": "bradley.charles@seattlecolleges.edu",
+      "github": "https://github.com/BradleyCharles",
+      "linkedin": "https://www.linkedin.com/in/bradgcharles/"
+    },
+    {
+      "name": "Nicholas Wade Miller",
+      "photo": "Nicholas-Wade-Miller.webp",
+      "role": "Developer",
+      "about": "I have had a lot of varied interests in my life, including a love for computers and technology that started from a young age. I find that being a part of the Application Development program is a great fit for me. Though I may not know as much as a lot of my peers, I thoroughly enjoy the challenge and stepping into a realm where being a perpetual student is a must!",
+      "email": "nwmiller.516@gmail.com",
+      "github": "https://github.com/nwm516",
+      "linkedin": "https://www.linkedin.com/in/nw-miller/"
+    },
+    {
+      "name": "Diego Cano",
+      "photo": "Diego-Cano.webp",
+      "role": "Developer",
+      "about": "Hi, I'm Diego! I'm a 24-year-old student at North Seattle College, where I'm diving deep into programming and computer science. Originally from Venezuela, I've embraced the vibrant culture of Seattle while balancing my studies with my job as a server at bar. My passion for technology drives me to constantly learn and improve my skills. When I'm not coding or working, I enjoy outdoor activities and staying fit.  Let's connect and collaborate on exciting projects!",
+      "email": "dcano2810@gmail.com",
+      "github": "https://github.com/Diego-Cano",
+      "linkedin": "https://www.linkedin.com/in/diegocanousa"
+    },
+    {
+      "name": "Alas Ali",
+      "photo": "anon-profile-image.webp",
+      "role": "Developer",
+      "about": "My name is Alas Ali. I am a student in the Application Development program of NSC.  I like boxing, music, and hiking sometimes.",
+      "email": "calasocali@outlook.com",
+      "github": "https://github.com/alasali1",
+      "linkedin": "https://www.linkedin.com/in/alas-ali-66bb0a19a/"
+    },
+    {
+      "name": "Lars Swenson",
+      "photo": "Lars-Swenson.webp",
+      "role": "Developer",
+      "about": "Born and raised in Seattle, I recently majored in web development at Seattle Central College and am currently enrolled in the application development bachelor's program at North Seattle College.",
+      "email": "lars.swenson@gmail.com",
+      "github": "https://github.com/larsswenson",
+      "linkedin": "https://www.linkedin.com/in/lars-swenson/"
+    },
+    {
+      "name": "Nha Minh Pham",
+      "photo": "Nha-Pham.webp",
+      "role": "Developer",
+      "about": "I am an international student from Vietnam. Currently a Junior in AD program at North. I am also a member of Student Leadership here.",
+      "email": "phamminhnha2003@gmail.com",
+      "github": "https://github.com/nhapham03",
+      "linkedin": "https://www.linkedin.com/in/nha-pham-96a181295/"
+    },
+    {
+      "name": "Luiz Ramos",
+      "photo": "Luiz-Ramos.webp",
+      "role": "Developer",
+      "about": "I'm a Tableau/Business Intelligence Developer with 7 years of experience in data related roles, but back in university to finish my degree in application development and further my career.",
+      "email": "luiz.matthew.ramos@gmail.com",
+      "github": "https://github.com/alzavio",
+      "linkedin": "https://www.linkedin.com/in/luizrm/"
+    },
+    {
+      "name": "Biruk Beyene",
+      "photo": "anon-profile-image.webp",
+      "role": "Developer",
+      "about": "Hi, my name is Biruk. I am a SharePoint Developer @ Pokémon. I love exploring new places, travelling, learning new things, and spending time with family and friends. In my free time, you can find me working on cars, hiking, or working on music production.",
+      "email": "biruk.beyene@seattlecolleges.edu",
+      "github": "https://github.com/gitbiruk2010",
+      "linkedin": ""
+    },
+    {
+      "name": "Jesse Caddell",
+      "photo": "Jesse-Caddell.webp",
+      "role": "Technical Program Manager",
+      "about": "I have a passion for working on games and apps. I currently have a fascination with twitch applications! I am a music lover and can be found at live events often.",
+      "email": "jesse.caddell@wsu.edu",
+      "github": "https://github.com/JesseCaddell",
+      "linkedin": "https://www.linkedin.com/in/jesse-caddell-316086296/"
+    },
+    {
+      "name": "Miguel Quintana Olivares",
+      "photo": "anon-profile-image.webp",
+      "role": "Developer",
+      "about": "I'm from Chile and I love dogs more than persons.",
+      "email": "miqo1385@gmail.com",
+      "github": "https://github.com/miqo1385",
+      "linkedin": "https://www.linkedin.com/in/miguelignacioquintana/"
+    },
+    {
+      "name": "Lilith Caldwell",
+      "photo": "anon-profile-image.webp",
+      "role": "Developer",
+      "about": "",
+      "email": "",
+      "github": "https://github.com/MaddasaHatter",
+      "linkedin": ""
+    },
+    {
+      "name": "Omar Aden",
+      "photo": "anon-profile-image.webp",
+      "role": "Developer",
+      "about": "Omar Aden, I'm doing a bachelor's degree in application development. I will graduate this summer",
+      "email": "",
+      "github": "",
+      "linkedin": "https://www.linkedin.com/in/omar-Aden/"
+    },
+    {
+      "name": "Elida Ribeiro de Souza",
+      "photo": "Elida-Ribeiro-de-Souza.webp",
+      "role": "Developer",
+      "about": "Hello! I'm Elida Ribeiro de Souza, a dedicated and passionate student currently pursuing a degree in Applied Development at North Seattle College. With a keen interest in software development, data science, artificial intelligence, data analysis, deep learning, and machine learning, I am constantly seeking opportunities to learn and grow. I have a strong foundation in JavaScript, React, Python, SQL, Java, NumPy, and pandas. I recently earned my Google TensorFlow certification, further solidifying my expertise in deep learning. In my free time, I enjoy cooking, coding deep learning projects, and hiking. I am excited to connect with like-minded individuals and contribute to meaningful projects that make a difference.",
+      "email": "",
+      "github": "",
+      "linkedin": "https://www.linkedin.com/in/elida-ribeiro-de-souza-56505a53/"
+    },
+    {
+      "name": "Khanh Trinh Nguyen",
+      "photo": "Khanh-Trinh-Nguyen.webp",
+      "role": "Developer",
+      "about": "Passionate Software Developer with experience in multiple programming languages and frameworks. Currently honing skills in web and mobile development while leveraging past expertise in networking to advance toward NetOps.",
+      "email": "khanhtrinhvnguyen@gmail.com",
+      "github": "https://github.com/LiteWilliamNguyen",
+      "linkedin": "https://www.linkedin.com/in/khanhtrinh-nguyen/"
+    },
+    {
+      "name": "Azarias A'Neals",
+      "photo": "Azarias-A'Neals.webp",
+      "role": "Developer",
+      "about": "Hello! my name is Azarias A'Neals, and I am currently enrolled in North Seattle College's Application Development program. ",
+      "email": "AzariasA@protonmail.com",
+      "github": "https://github.com/AzariasANeals",
+      "linkedin": "https://www.linkedin.com/in/azarias-a-neals-64113a188/"
+    },
+    {
+      "name": "Beimnet Tesfaye",
+      "photo": "Beimnet-tesfaye.webp",
+      "about": "Application development student passionate about building inclusive, user-friendly web applications using modern technologies like React and Java.",
+      "email": "beimnettesfaye@gmail.com",
+      "github": "https://github.com/beimnettes",
+      "linkedin": "https://www.linkedin.com/in/beimnet-tesfaye-220418291"
+    },
+    {
+      "name": "Katrina Hill",
+      "photo": "Katrina-Hill.webp",
+      "role": "Developer",
+      "about": "Motivated Software Developer with a keen understanding of developing applications in multiple programming languages. Currently pursuing a Bachelor's degree in Application Development at North Seattle College.",
+      "email": "khill365@gmail.com",
+      "github": "https://github.com/katrina-l-hill",
+      "linkedin": "https://www.linkedin.com/in/katrina-l-hill/"
+    },
+    {
+      "name": "Luwam Habtu",
+      "photo": "Luwam-Habtu.webp",
+      "about": "I'm doing a bachelor's degree in application development. I will graduate this spring.",
+      "email": "luwamhabtu07@gmail.com",
+      "github": "https://github.com/luwamhabtu07",
+      "linkedin": "https://www.linkedin.com/in/luwam-habtu-803915300/"
+    },
+    {
+      "name": "John Farnandez",
+      "photo": "John-Farnandez.webp",
+      "role": "Developer",
+      "about": "I'm currently a senior in the CS graduate program with a concentration in Data Science in the data science practicum. Hoping to learn more about working with clients through the AD projects.",
+      "email": "johnff0609@gmail.com",
+      "github": "https://github.com/johnff9",
+      "linkedin": "https:///www.linkedin.com/in/john-farnandez"
+    },
+    {
+      "name": "Zulbadam Batdelger",
+      "photo": "Zulbadam-Batdelger.webp",
+      "role": "Developer",
+      "about": "Passionate about UI/UX design, with a strong focus on continuous improvement. Recently exploring cloud technologies such as AWS and emerging applications of AI.",
+      "email": "zulbadamz@gmail.com",
+      "github": "https://github.com/Zulbadamz",
+      "linkedin": "https://www.linkedin.com/in/zulbadam-batdelger-aa91851b7/"
+    },
+    {
+      "name": "Fathiya Yoosef",
+      "photo": "fathiya_50.jpg",
+      "role": "Developer",
+      "about": "I'm doing a bachelor's degree in application development at North Seattle Colloge. I will graduate 2027",
+      "email": "fathiya.yoosef@asettale.colleges.edu",
+      "github": "https://github.com/Dhool143",
+      "linkedin": "https://www.linkedin.com/in/fathiya-yoosef-0a9a5620b/"
+    },
+    {
+      "name": "David Davis",
+      "photo": "David-Davis.webp",
+      "role": "Developer",
+      "about": "BAS‑AD student who approaches challenges with structure and persistence, always aiming for clean, intuitive results.",
+      "email": "barrcardavis@gmail.com",
+      "github": "https://github.com/Barrcardavis",
+      "linkedin": "https://www.linkedin.com/in/david-davis-010000194/"
+    },
+    {
+      "name": "Bashir Abdulkadir",
+      "photo": "anon-profile-image.webp",
+      "role": "Application Development Student",
+      "about": "I am an Application Development student focused on building real-world projects and improving my collaboration and GitHub workflow skills.",
+      "email": "bashir3355@gmail.com",
+      "github": "https://github.com/Bashir3355",
+      "linkedin": ""
+    },
+    {
+      "name": "El Brewster",
+      "photo": "El-Brewster.webp",
+      "role": "Developer",
+      "about": "I love JavaScript.",
+      "email": "brewsterel3@gmail.com",
+      "github": "https://github.com/elbi3",
+      "linkedin": "https://www.linkedin.com/in/el-brewster/"
+    },
+    {
+      "name": "Ellie Noble",
+      "photo": "ellie-noble.webp",
+      "role": "Developer",
+      "about": "AD Student with an associates in Graphic Design and a passion for for user focused design and accessibility. I want to build designs that bring people joy.",
+      "email": "Ellie.Noble@seattlecolleges.edu",
+      "github": "https://github.com/ellieNoble13"
+    },
+    {
+      "name": "Bade Habib",
+      "photo": "Bade-Habib.webp",
+      "role": "Developer",
+      "about": "Full stack software engineer and ex-Navy aircraft carrier IT systems administrator with experience in web and game development. Currently interested in transitioning to a DevOps role.",
+      "email": "bjhabib93@gmail.com",
+      "github": "https://github.com/JungDefiant",
+      "linkedin": "https://www.linkedin.com/in/badehabib/"
+    },
+    {
+      "name": "José Antonio Horta Herrera",
+      "photo": "Jose-Horta.webp",
+      "role": "Computer Science Student",
+      "about": "Computer Science student passionate about learning software development, improving problem-solving skills, and growing in full stack and AI technologies.",
+      "email": "hortajose08@gmail.com",
+      "github": "https://github.com/josehorta21",
+      "linkedin": "https://www.linkedin.com/in/jose-antonio-horta-herrera-76b243336"
+    },
+    {
+      "name": "Reid SantaBarbara",
+      "photo": "Reid-Santabarbara.webp",
+      "role": "Developer",
+      "about": "I am a curious developer learning each day",
+      "email": "reid.santabarbara@seattlecolleges.edu",
+      "github": "https://github.com/olympusmons1256",
+      "linkedin": "https://www.linkedin.com/in/reid-santabarbara-9a70364b/"
+    },
+    {
+      "name": "Evelyn Bushell",
+      "photo": "Evelyn-Bushell.webp",
+      "role": " Student Developer",
+      "about": "A Junior student who loves the puzzles of problem solving, I love just how many different things there are to learn.",
+      "email": "evelynabushell@gmail.com",
+      "github": "https://github.com/Eveybushell",
+      "linkedin": "https://www.linkedin.com/in/evelyn-bushell-6a475639a/"
+    },
+    {
+      "name": "Eric Cashman",
+      "photo": "Eric-Cashman.webp",
+      "role": "Developer",
+      "about": "Pursuing a Bachelors in Application Development. My goals is to pursue Grad school to conduct research about data and real world implications",
+      "email": "sircashmaneric@gmail.com",
+      "github": "https://github.com/Eric-Cashman",
+      "linkedin": "https://www.linkedin.com/in/Eric-Cashman/"
+    },
+    {
+      "name": "Dara Sen",
+      "photo": "Dara-Sen.webp",
+      "about": "Passonate about Full-Stack Development, Machine Learning and Data Science",
+      "email": "darasen0277@gmail.com",
+      "github": "https://github.com/DS-0277",
+      "linkedin": "https://www.linkedin.com/in/dara-sen-24681863/"
+    },
+    {
+      "name": "Hyejin Lee",
+      "photo": "anon-profile-image.webp",
+      "role": "AD311 Student",
+      "about": "NSC AD BAS current student.",
+      "email": "xthsu27x@gmail.com",
+      "github": "https://github.com/HJLee82",
+      "linkedin": "https://www.linkedin.com/in/hyejin-lee-948966303/"
+    },
+    {
+      "name": "Dmitriy SC",
+      "photo": "Dmitriy_S_C.webp",
+      "role": "Software Development Entrepreneur",
+      "about": "Interested in being specialized as a Highly Adaptive Code Kinematics Enterprise Respondent that focuses on fluid movement of data across hybrid environments. Unlike traditional developers, a H.A.C.K.E.R. excels at the intersection of OS-level subsystems and high-level application logic. The goal is to be responsible for testing/building resilient data structures, ensuring cross-platform compatibility (Linux/Windows), and maintaining rigorous quality standards through automated test-driven development.",
+      "email": "dmitriy.chernichenko@seattlecolleges.edu",
+      "github": "https://github.com/DiscipleA",
+      "linkedin": "https://studentlearningcenteratnorthseattlecollege.wordpress.com/2024/02/21/this-tutor-makes-the-most-of-time/"
+    },
+    {
+      "name": "Ingrid Arenas Rosas",
+      "photo": "Ingrid-Arenas-Rosas.webp",
+      "role": "Student",
+      "about": "Current BAS Student, I love learning new things and expanding my knowledge.",
+      "email": "ingridarenasrosas@seattlecolleges.edu",
+      "github": "https://github.com/Ilikemyhome",
+      "linkedin": "https://www.linkedin.com/in/ingridarenasrosas"
+    },
+    {
+      "name": "Mark Yosinao",
+      "photo": "m_yosinao.webp",
+      "role": "Developer",
+      "about": "I am pursuing the App Dev BAS degree with an emphasis on creating practical, impactful software solutions for real‑world needs.",
+      "email": "yosinaom@gmail.com",
+      "github": "https://github.com/makayo",
+      "linkedin": "https://www.linkedin.com/in/mark-yosinao-4914a3200/"
+    },
+    {
+      "name": "An Nhat Tran",
+      "photo": "An_Nhat_Tran.webp",
+      "role": "Developer",
+      "about": "Hello, I'm An (Andy), a student in the AppDev program, and I am eager to learn. I play mahjong with the Seattle Riichi mahjong club.",
+      "email": "nhatan05092005@gmail.com",
+      "github": "https://github.com/SUPER444E",
+      "linkedin": "https://www.linkedin.com/in/an-nhat-tran-a98a5a35b/"
+    },
+    {
+      "name": "Copper Wilson",
+      "photo": "Copper-Wilson.webp",
+      "role": "Student",
+      "about": "Current NSC AD BAS student",
+      "email": "",
+      "github": "https://github.com/cuwilson",
+      "linkedin": "https://www.linkedin.com/in/copper-wilson-a60314188/"
+    },
+    {
+      "name": "Andy Douglas",
+      "photo": "Andy-Douglas.webp",
+      "role": "Developer",
+      "about": "NSC AD BAS current student.",
+      "email": "andydouglas6416@gmail.com",
+      "github": "https://github.com/adouglas20",
+      "linkedin": "www.linkedin.com/in/adougl"
+    },
+    {
+      "name": "Ermiyas Hailemichael",
+      "photo": "anon-profile-image.webp",
+      "role": "NSC AD BAS Student",
+      "about": "I'm currently pursuing a Bachelor's degree in Application Development at North Seattle College. I enjoy building web applications and am expanding my skills in TypeScript, Node.js, and Express.js.",
+      "email": "yemeerma11@gmail.com",
+      "github": "https://github.com/ErmiyasHailemichael",
+      "linkedin": "https://www.linkedin.com/in/ehailemichael/"
+    },
+    {
+      "name": "William Anderson",
+      "photo": "anon-profile-image.webp",
+      "role": "Developer",
+      "about": "I'm currently pursuing a Bachelor's degree in Application Development at North Seattle College. I enjoy building web applications and am expanding my skills in TypeScript, Node.js, and Express.js.",
+      "email": "william.l.anderson2@seattlecolleges.edu",
+      "github": "https://github.com/sstar691969",
+      "linkedin": "https://www.linkedin.com/in/williamanderson2424/"
+    },
+    {
+      "name": "Yisakor Mirany",
+      "photo": "Yisakor-Mirany.webp",
+      "role": "Developer",
+      "about": "Application Development & Computer Science Student | FastAPI • JavaScript • Frontend UI • ML Basics",
+      "email": "yisakor.mirr@gmail.com",
+      "github": "https://github.com/Yisakor-Mirany",
+      "linkedin": "https://www.linkedin.com/in/yisakor-mirany/"
+    },
+    {
+      "name": "Kokob Haile",
+      "photo": "Kokob-Haile.webp",
+      "role": "Application Developer",
+      "about": "I'm in the AD BAS program at North Seattle College. I'm learning web development and still figuring out what area of tech I want to focus on.",
+      "email": "kokobugbai30@gmail.com",
+      "github": "https://github.com/koki-star",
+      "linkedin": "https://www.linkedin.com/in/kokob-haile/"
+    },
+    {
+      "name": "Victoria Salomon",
+      "photo": "Paulina-Salomon.webp",
+      "role": "Application Development Student",
+      "about": "Application Development student at North Seattle College passionate about UX/UI design and building user-friendly applications.",
+      "email": "paulinasalomon99.pereyra@gmail.com",
+      "github": "https://github.com/PaulinaS123",
+      "linkedin": "https://www.linkedin.com/in/paulina-salomon"
+    }
+  ]
 }
