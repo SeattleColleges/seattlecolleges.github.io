@@ -526,7 +526,7 @@
             "email": "xthsu27x@gmail.com",
             "github": "https://github.com/HJLee82",
             "linkedin": "https://www.linkedin.com/in/hyejin-lee-948966303/"
-        },
+        }, 
         {
             "name": "Dmitriy SC",
             "photo": "Dmitriy_S_C.webp",
@@ -562,7 +562,16 @@
             "email": "nhatan05092005@gmail.com",
             "github": "https://github.com/SUPER444E",
             "linkedin": "https://www.linkedin.com/in/an-nhat-tran-a98a5a35b/"
-        },
+        }, 
+        {
+	        "name": "Amde Wubshet",
+            "photo": "anon-profile-image.webp",
+            "role": "Developer",
+            "about": "NSC AD undergraduate, expected to graduate next year. New to this stuff but i'm excited to learn!",
+            "email": "amdemw206@gmail.com",
+            "github": "https://github.com/amdemw206-coder",
+            "linkedin": "https://www.linkedin.com/in/amde-wubshet-21a3b618b/"
+	    },
         {
             "name": "Copper Wilson",
             "photo": "Copper-Wilson.webp",
