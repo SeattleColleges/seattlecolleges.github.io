@@ -625,6 +625,15 @@
       "email": "kokobugbai30@gmail.com",
       "github": "https://github.com/koki-star",
       "linkedin": "https://www.linkedin.com/in/kokob-haile/"
+        },
+        {
+            "name": "Alex Torres",
+            "photo": "Alex-Torres.webp",
+            "role": "Application Developer",
+            "about": "I am an Application Development student at North Seattle College with a strong interest in building scalable web applications and technology-driven solutions. I enjoy working on projects that combine software development, data, and business, and I am actively exploring opportunities in full-stack development and entrepreneurship.",
+            "email": "almatob0@hotmail.com",
+            "github": "https://github.com/alextorreswa",
+            "linkedin": "https://www.linkedin.com/in/alextorreswa/"
     },
     {
       "name": "Victoria Salomon",
