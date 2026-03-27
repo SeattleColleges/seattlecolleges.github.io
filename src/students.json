@@ -634,6 +634,15 @@
       "email": "paulinasalomon99.pereyra@gmail.com",
       "github": "https://github.com/PaulinaS123",
       "linkedin": "https://www.linkedin.com/in/paulina-salomon"
+        },
+        {
+            "name": "Livan Hagi Osman",
+            "photo": "anon-profile-image.webp",
+            "role": "NSC AD BAS Student",
+            "about": "Passionate about Cloud Computing and AI, with a focus on leveraging these technologies to create innovative solutions. Currently pursuing a Bachelor's degree in Application Development at North Seattle College, I am eager to apply my skills and knowledge to real-world projects and contribute to the ever-evolving tech landscape.",
+            "email": "livan.hagiosman@seattlecolleges.edu",
+            "github": "https://github.com/livanho",
+            "linkedin": "https://www.linkedin.com/in/livan-hagi-osman/"
     }
   ]
 }
