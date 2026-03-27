@@ -652,6 +652,15 @@
             "email": "livan.hagiosman@seattlecolleges.edu",
             "github": "https://github.com/livanho",
             "linkedin": "https://www.linkedin.com/in/livan-hagi-osman/"
+    },
+    {
+        "name": "Edgar Vargas",
+        "photo": "anon-profile-image.webp",
+        "role": "Application Developer",
+        "about": "I'm an entry level software developer, with practical experience in web development and secure application design. Skilled in Java, Python, and JavaScript, with a strong problem-solving mindset. Eager to learn, contribute, and grow within a collaborative team environment.",
+        "email": "ed.vasgastri@gmail.com",
+        "github": "https://github.com/EdgarShay",
+        "linkedin": "https://www.linkedin.com/in/edgarvargasat/"
     }
   ]
 }
